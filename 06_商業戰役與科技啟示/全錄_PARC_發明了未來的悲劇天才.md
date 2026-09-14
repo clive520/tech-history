@@ -1,5 +1,11 @@
 # 親手發明了滑鼠、圖形介面與雷射印表機，全錄高層為什麼會把整個未來像白菜一樣白白送給賈伯斯？
 
+<div class="video-container">
+  <iframe src="https://www.youtube-nocookie.com/embed/kuE-sX7IhMM" title="YouTube 專題影片：科技史上的世紀大劫案：全錄發明未來卻失去一切" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+> 📺 **同步收看 YouTube 專題解說影片**：[《科技史上的世紀大劫案：全錄發明未來卻失去一切》（點此在 YouTube 開啟全螢幕）](https://youtu.be/kuE-sX7IhMM)
+
 > **時代座標**：1970 年 - 1983 年  
 > **領銜人物**：鮑勃·泰勒（Bob Taylor）、艾倫·凱（Alan Kay）、巴特勒·蘭普森（Butler Lampson）、查克·薩克爾（Chuck Thacker）、賴瑞·泰斯勒（Larry Tesler）、史蒂夫·賈伯斯（Steve Jobs）  
 > **核心突破**：聚集全美最頂尖的電腦科學家，在十年間發明了現代個人電腦的所有核心基因——點陣圖顯示器、視窗與圖示（GUI）、滑鼠游標、物件導向程式設計（Smalltalk）、區域網路（Ethernet）、雷射印表機與「所見即所得」（WYSIWYG）。然而，紐約影印機總部官僚的極度傲慢與戰略近視，親手將這座價值千億美元的數位未來拱手讓人。

@@ -1,5 +1,11 @@
 # Apple II 與車庫奇蹟：史蒂夫·沃茲尼克的電路詩篇與個人電腦的破曉
 
+<div class="video-container">
+  <iframe src="https://www.youtube-nocookie.com/embed/dPUvzS8mq7I" title="YouTube 專題影片：Apple II 與車庫奇蹟：現代科技的神話" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+> 📺 **同步收看 YouTube 專題解說影片**：[《Apple II 與車庫奇蹟：現代科技的神話》（點此在 YouTube 開啟全螢幕）](https://youtu.be/dPUvzS8mq7I)
+
 > **時代座標**：1975 年 - 1981 年  
 > **領銜人物**：史蒂夫·沃茲尼克（Steve Wozniak，The Woz）、史蒂夫·賈伯斯（Steve Jobs）、麥克·馬庫拉（Mike Markkula）、丹·布里克林（Dan Bricklin）  
 > **核心突破**：以極致精簡的 TTL 晶片設計實現彩色圖形輸出、動態 RAM 隱形刷新與革命性軟碟機控制器，將原本屬於極客俱樂部的焊接電路板，蛻變為史上第一台開箱即用、走入大眾家庭與企業殿堂的現代個人電腦。

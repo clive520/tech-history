@@ -14,6 +14,7 @@ const TOPICS_DATA = [
     ],
     "breakthrough": "整合鍵盤、螢幕輸出、彩色圖形與單一主板架構的商業個人電腦",
     "status": "published",
+    "youtube": "https://youtu.be/dPUvzS8mq7I",
     "file": "Apple_II_與車庫奇蹟.md"
   },
   {
@@ -577,6 +578,7 @@ const TOPICS_DATA = [
     ],
     "breakthrough": "誕生個人運算所有核心要素，卻因母公司缺乏遠見而錯失帝國版圖",
     "status": "published",
+    "youtube": "https://youtu.be/kuE-sX7IhMM",
     "file": "全錄_PARC_發明了未來的悲劇天才.md"
   },
   {

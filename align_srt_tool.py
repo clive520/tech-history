@@ -1,6 +1,8 @@
 import json
 import re
 import difflib
+import argparse
+import sys
 
 def format_timestamp(seconds: float) -> str:
     millis = int(round(seconds * 1000))
@@ -12,31 +14,37 @@ def format_timestamp(seconds: float) -> str:
     millis %= 1000
     return f"{hours:02d}:{minutes:02d}:{secs:02d},{millis:03d}"
 
-def main():
-    # 1. Read approved lines from txt
-    with open(r'C:\Antigravity\科技歷史\字幕校對稿_請使用者確認.txt', 'r', encoding='utf-8-sig') as f:
+def align_and_export_srt(approved_txt_path, whisper_json_path, output_srt_path):
+    print(f"[*] 讀取文字校對稿: {approved_txt_path}")
+    with open(approved_txt_path, 'r', encoding='utf-8-sig') as f:
         raw_lines = [l.strip() for l in f if l.strip()]
 
     approved_lines = []
     for l in raw_lines:
-        if l.startswith('【') or l.startswith('說明：') or l.startswith('您可以直接'):
+        if l.startswith('【') or l.startswith('說明') or l.startswith('您可以在') or l.startswith('您可以直接'):
             continue
         m = re.match(r'^\d+\.\s*(.+)$', l)
         if m:
             approved_lines.append(m.group(1))
+        else:
+            approved_lines.append(l)
 
-    print(f'Total approved lines: {len(approved_lines)}')
+    print(f"[*] 總字幕行數: {len(approved_lines)}")
 
-    # 2. Read whisper words
-    with open(r'C:\Antigravity\科技歷史\whisper_words.json', 'r', encoding='utf-8') as f:
-        whisper_words = json.load(f)
+    print(f"[*] 讀取 Whisper 單字時間戳: {whisper_json_path}")
+    with open(whisper_json_path, 'r', encoding='utf-8') as f:
+        data = json.load(f)
 
-    whisper_chars = []
-    whisper_char_to_word = []
+    if isinstance(data, dict) and 'words' in data:
+        whisper_words = data['words']
+    elif isinstance(data, list):
+        whisper_words = data
+    else:
+        raise ValueError("Invalid whisper words json format")
 
+    whisper_chars, whisper_char_to_word = [], []
     for w_idx, w in enumerate(whisper_words):
-        w_text = w['word']
-        for c in w_text:
+        for c in w['word']:
             clean_c = re.sub(r'[^\w]', '', c)
             if clean_c:
                 whisper_chars.append(clean_c)
@@ -44,95 +52,80 @@ def main():
 
     whisper_full_str = ''.join(whisper_chars)
 
-    # 3. Approved char stream and line boundaries
-    approved_char_boundaries = []
-    approved_chars = []
+    approved_char_boundaries, approved_chars = [], []
     curr_idx = 0
-
     for l in approved_lines:
         clean_l = re.sub(r'[^\w]', '', l)
-        start_c = curr_idx
-        end_c = curr_idx + len(clean_l)
-        approved_char_boundaries.append((start_c, end_c))
+        st_c, ed_c = curr_idx, curr_idx + len(clean_l)
+        approved_char_boundaries.append((st_c, ed_c))
         approved_chars.extend(list(clean_l))
-        curr_idx = end_c
+        curr_idx = ed_c
 
     approved_full_str = ''.join(approved_chars)
 
-    # 4. Difflib matching
+    print("[*] 執行字元級序列匹配 (Sequence Matching)...")
     matcher = difflib.SequenceMatcher(None, whisper_full_str, approved_full_str)
-    blocks = matcher.get_matching_blocks()
+    ratio = matcher.ratio()
+    print(f"[*] 文字與音訊匹配度 (Similarity): {ratio:.2%}")
 
     app_to_whisp = [None] * len(approved_full_str)
-    for b in blocks:
-        w_start, a_start, size = b.a, b.b, b.size
-        for i in range(size):
-            app_to_whisp[a_start + i] = w_start + i
+    for b in matcher.get_matching_blocks():
+        for i in range(b.size):
+            app_to_whisp[b.b + i] = b.a + i
 
-    # Interpolate unmapped approved chars
-    last_mapped_whisp = 0
+    last_val = 0
     for i in range(len(app_to_whisp)):
         if app_to_whisp[i] is None:
-            next_mapped_whisp = len(whisper_full_str) - 1
+            next_val = len(whisper_full_str) - 1
             for j in range(i + 1, len(app_to_whisp)):
                 if app_to_whisp[j] is not None:
-                    next_mapped_whisp = app_to_whisp[j]
+                    next_val = app_to_whisp[j]
                     break
-            app_to_whisp[i] = min(max(last_mapped_whisp, int(round((last_mapped_whisp + next_mapped_whisp) / 2))), len(whisper_full_str) - 1)
+            app_to_whisp[i] = min(max(last_val, int(round((last_val + next_val) / 2))), len(whisper_full_str) - 1)
         else:
-            last_mapped_whisp = app_to_whisp[i]
+            last_val = app_to_whisp[i]
 
-    # 5. Build subtitle segments
     subtitles = []
     for l_idx, (st_c, ed_c) in enumerate(approved_char_boundaries):
-        text = approved_lines[l_idx]
         if st_c == ed_c:
             continue
         w_start_idx = app_to_whisp[st_c]
         w_end_idx = app_to_whisp[min(ed_c - 1, len(app_to_whisp) - 1)]
-        
-        word_s_idx = whisper_char_to_word[w_start_idx]
-        word_e_idx = whisper_char_to_word[w_end_idx]
-        
-        start_time = whisper_words[word_s_idx]['start']
-        end_time = whisper_words[word_e_idx]['end']
-        
-        subtitles.append({
-            'index': l_idx + 1,
-            'start': start_time,
-            'end': end_time,
-            'text': text
-        })
+        s_time = whisper_words[whisper_char_to_word[w_start_idx]]['start']
+        e_time = whisper_words[whisper_char_to_word[w_end_idx]]['end']
+        subtitles.append({'index': l_idx + 1, 'start': s_time, 'end': e_time, 'text': approved_lines[l_idx]})
 
-    # Post process: Monotonic timestamps and clean gap boundaries
+    print("[*] 執行時間軸防呆校正 (單調性、防重疊、最小顯示時間保證)...")
     for i in range(len(subtitles)):
         if i > 0:
             if subtitles[i]['start'] < subtitles[i-1]['start']:
                 subtitles[i]['start'] = subtitles[i-1]['start']
             if subtitles[i]['start'] < subtitles[i-1]['end']:
-                # Clip previous end to not overlap
                 subtitles[i-1]['end'] = subtitles[i]['start']
-                # If duration became too short, nudge both
                 if subtitles[i-1]['end'] - subtitles[i-1]['start'] < 0.4:
                     subtitles[i-1]['end'] = subtitles[i-1]['start'] + 0.4
                     subtitles[i]['start'] = subtitles[i-1]['end']
         if subtitles[i]['end'] <= subtitles[i]['start']:
             subtitles[i]['end'] = subtitles[i]['start'] + 1.0
 
-    # Ensure last subtitle doesn't extend beyond audio duration
     max_duration = whisper_words[-1]['end'] + 0.5
     if subtitles[-1]['end'] > max_duration:
         subtitles[-1]['end'] = max_duration
 
-    # Output to SRT file with UTF-8-BOM (utf-8-sig)
-    srt_path = r'C:\Antigravity\科技歷史\為什麼_Napster_改變音樂：MP3革命.srt'
-    with open(srt_path, 'w', encoding='utf-8-sig') as f:
+    print(f"[*] 寫入標準 UTF-8-BOM SRT 字幕: {output_srt_path}")
+    with open(output_srt_path, 'w', encoding='utf-8-sig') as f:
         for s in subtitles:
-            f.write(f"{s['index']}\n")
-            f.write(f"{format_timestamp(s['start'])} --> {format_timestamp(s['end'])}\n")
-            f.write(f"{s['text']}\n\n")
+            f.write(f"{s['index']}\n{format_timestamp(s['start'])} --> {format_timestamp(s['end'])}\n{s['text']}\n\n")
 
-    print(f'Successfully generated {len(subtitles)} subtitles into {srt_path}')
+    print(f"[OK] 大功告成！共產出 {len(subtitles)} 條精準字幕。")
+
 
 if __name__ == '__main__':
-    main()
+    parser = argparse.ArgumentParser(description='高品質字幕強制對齊工具')
+    parser.add_argument('--approved', required=True, help='文字校對稿路徑 (.txt)')
+    parser.add_argument('--whisper', required=True, help='Whisper 單字時間戳路徑 (.json)')
+    parser.add_argument('--output', required=True, help='輸出 SRT 路徑 (.srt)')
+    args = parser.parse_args()
+
+    align_and_export_srt(args.approved, args.whisper, args.output)
+

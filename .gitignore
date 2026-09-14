@@ -6,5 +6,5 @@ Thumbs.db
 *.mov
 *.avi
 *.mkv
-whisper_words.json
+whisper_words*.json
 

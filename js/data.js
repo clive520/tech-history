@@ -147,6 +147,7 @@ const TOPICS_DATA = [
     ],
     "breakthrough": "聲學心理學心理聽覺遮蔽效應，將 CD 音樂壓縮至 1/10 體積",
     "status": "published",
+    "youtube": "https://youtu.be/w4vKBO5K-cY",
     "file": "MP3_音訊革命.md"
   },
   {

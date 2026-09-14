@@ -95,13 +95,20 @@ document.addEventListener('DOMContentLoaded', () => {
         isClickable = true;
       }
 
+      const youtubeBadge = topic.youtube 
+        ? '<span class="inline-flex items-center gap-1 px-2 py-0.5 rounded-full text-[11px] font-semibold bg-red-100 text-red-700 dark:bg-red-950/80 dark:text-red-300"><i data-lucide="youtube" class="w-3 h-3"></i> 影音</span>' 
+        : '';
+
       card.innerHTML = `
         <div>
           <div class="flex items-center justify-between gap-2 mb-3">
             <span class="text-xs font-semibold px-2.5 py-0.5 rounded-md bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-400">
               ${topic.era}
             </span>
-            ${statusBadge}
+            <div class="flex items-center gap-1.5">
+              ${youtubeBadge}
+              ${statusBadge}
+            </div>
           </div>
 
           <h3 class="text-lg font-bold text-slate-900 dark:text-white group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors mb-1">

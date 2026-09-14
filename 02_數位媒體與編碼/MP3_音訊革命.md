@@ -1,5 +1,11 @@
 # MP3 音訊革命：德國實驗室的聲學心理學、Napster 盜版浪潮與 iPod 救贖
 
+<div class="video-container">
+  <iframe src="https://www.youtube-nocookie.com/embed/w4vKBO5K-cY" title="YouTube 專題影片：為什麼 Napster 改變音樂：MP3 革命" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+> 📺 **同步收看 YouTube 專題解說影片**：[《為什麼 Napster 改變音樂：MP3 革命》（點此在 YouTube 開啟全螢幕）](https://youtu.be/w4vKBO5K-cY)
+
 > **時代座標**：1982 年 - 2001 年  
 > **領銜人物**：卡爾海因茲·布蘭登堡（Karlheinz Brandenburg）、肖恩·范寧（Shawn Fanning）、史蒂夫·賈伯斯（Steve Jobs）  
 > **核心突破**：利用人類大腦的「心理聲學遮蔽效應」（Psychoacoustic Masking），將龐大的無損音訊體積壓縮至原本的十分之一，卻幾乎不損失人耳可察覺的音質，徹底摧毀並重塑了全球音樂產業鏈。

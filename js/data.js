@@ -575,8 +575,8 @@ const TOPICS_DATA = [
       "Steve Jobs"
     ],
     "breakthrough": "誕生個人運算所有核心要素，卻因母公司缺乏遠見而錯失帝國版圖",
-    "status": "planned",
-    "file": "全錄_PARC_發明了未來的天才.md"
+    "status": "published",
+    "file": "全錄_PARC_發明了未來的悲劇天才.md"
   },
   {
     "id": "kodak-dilemma",

@@ -13,7 +13,7 @@ const TOPICS_DATA = [
       "Steve Jobs"
     ],
     "breakthrough": "整合鍵盤、螢幕輸出、彩色圖形與單一主板架構的商業個人電腦",
-    "status": "planned",
+    "status": "published",
     "file": "Apple_II_與車庫奇蹟.md"
   },
   {

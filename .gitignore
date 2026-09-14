@@ -7,4 +7,4 @@ Thumbs.db
 *.avi
 *.mkv
 whisper_words*.json
-
+temp_*.txt

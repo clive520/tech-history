@@ -20,13 +20,14 @@ def align_and_export_srt(approved_txt_path, whisper_json_path, output_srt_path):
         raw_lines = [l.strip() for l in f if l.strip()]
 
     approved_lines = []
+    has_numbered = any(re.match(r'^\d+\.\s*(.+)$', l) for l in raw_lines)
     for l in raw_lines:
-        if l.startswith('【') or l.startswith('說明') or l.startswith('您可以在') or l.startswith('您可以直接'):
+        if l.startswith('【') or l.startswith('說明') or l.startswith('本稿') or l.startswith('#') or l.startswith('註') or l.startswith('您可以'):
             continue
         m = re.match(r'^\d+\.\s*(.+)$', l)
         if m:
             approved_lines.append(m.group(1))
-        else:
+        elif not has_numbered:
             approved_lines.append(l)
 
     print(f"[*] 總字幕行數: {len(approved_lines)}")

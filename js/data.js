@@ -358,7 +358,7 @@ const TOPICS_DATA = [
       "Brad Silverberg"
     ],
     "breakthrough": "32位元搶佔式多工、隨插即用（Plug and Play）與奠定現代桌面 UI",
-    "status": "planned",
+    "status": "published",
     "file": "Windows_95_狂潮.md"
   },
   {

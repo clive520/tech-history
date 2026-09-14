@@ -158,3 +158,40 @@ c:\Antigravity\科技歷史\
    - 聚焦個人電腦大爆發（《Apple II / Macintosh》、《IBM PC 與 Wintel》、《Windows 95 狂潮》）。
 3. **第三階段（網路與雲端深化）**：
    - 全面展開 Google Maps、WWW、Linux、AWS 等基礎設施與服務篇章。
+
+---
+
+## 陸、 影音化聯動製作標準流程（四步閉環）
+
+本專案不僅產出靜態網站與技術長文，亦將同步推進至影音多媒體（YouTube），具體協作閉環流程如下：
+
+```mermaid
+sequenceDiagram
+    autonumber
+    actor User as 使用者 (Producer)
+    participant Agent as Antigravity (AI Assistant)
+    participant YT as YouTube 影音平台
+    participant Web as GitHub Pages 網站
+
+    Agent->>Web: 步驟 1: 撰寫高深度文章 + 生成專業技術插圖
+    User->>User: 步驟 2: 依文章文稿與素材產出影片 (.mp4)
+    User->>Agent: 步驟 3: 提供影片檔，依 SOP 產出高品質字幕 (.srt)
+    Agent-->>User: 交付自然斷句 (8-12字)、精準對齊之 SRT 檔
+    User->>YT: 步驟 4: 上傳影片與字幕發布至 YouTube
+```
+
+1. **步驟 1：文章撰寫與視覺生成（AI Agent）**
+   - 深入調研歷史背景與技術底層原理，依 RDQ 規格產出引人入勝的非虛構技術長文。
+   - 伴隨高品質、高解析度技術藍圖／架構示意圖（生圖風格 A：復古未來主義技術藍圖風格）。
+   - 自動同步發布至 GitHub Pages 靜態網站。
+2. **步驟 2：影音多媒體製作（User）**
+   - 使用者依據產出的專題文章進行剪輯、配音或生成旁白，產出影音成品（`.mp4`）。
+3. **步驟 3：字幕生成與強制對齊（AI Agent ＋ User 協同）**
+   - 依循 `SOP_高品質YouTube字幕製作規範.md` 執行四階段字幕處理：
+     - 語音特徵提取（Whisper word timestamps）。
+     - 人類口語呼吸斷句（8～12 字黃金長度、固定詞彙絕不腰斬）。
+     - 人機協同文字校對（使用者確認文字與同音錯字）。
+     - 強制對齊（Forced Alignment）生成精準時間軸 UTF-8-BOM `.srt`。
+4. **步驟 4：發布與整合（User）**
+   - 使用者將影片與 `.srt` 字幕檔上傳發布至 YouTube，並可將 YouTube 播放清單／影片嵌入回網站文章，實現文字與影音雙向賦能。
+

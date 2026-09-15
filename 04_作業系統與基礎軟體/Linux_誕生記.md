@@ -1,5 +1,11 @@
 # 一個芬蘭大學生的「業餘愛好」，如何打碎微軟霸權、成為支撐全人類文明的開源基石？
 
+<div class="video-container">
+  <iframe src="https://www.youtube-nocookie.com/embed/dKEY9i7L_3U" title="YouTube 專題影片：一個業餘愛好如何征服科技世界" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+> 📺 **同步收看 YouTube 專題解說影片**：[《一個業餘愛好如何征服科技世界》（點此在 YouTube 開啟全螢幕）](https://youtu.be/dKEY9i7L_3U)
+
 > **時代座標**：1991 年 - 1999 年  
 > **領銜人物**：林納斯·托瓦茲（Linus Torvalds）、理查·斯托曼（Richard Stallman）、安德魯·塔能鮑姆（Andrew S. Tanenbaum）、艾瑞克·雷蒙（Eric S. Raymond）  
 > **核心突破**：以純粹的好奇心在平價個人電腦上獨立重寫 UNIX 核心，藉由早期的網際網路 Usenet 新聞組掀起史上第一次無中心化的全球分散式開源協作。它不僅補齊了 GNU 自由軟體運動沉寂十年的心臟，更以「實用主義與透明共享」的黑客精神，正面瓦解了商業軟體巨頭密室研發的定價神話；最終演化為支撐全球超級電腦、雲端巨獸、火星探測器與數十億行動裝置的數位文明呼吸底座。

@@ -396,6 +396,7 @@ const TOPICS_DATA = [
     ],
     "breakthrough": "網際網路非中心化分散式開源協作，構築全球伺服器與超級電腦底座",
     "status": "published",
+    "youtube": "https://youtu.be/dKEY9i7L_3U",
     "file": "Linux_誕生記.md"
   },
   {

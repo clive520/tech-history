@@ -410,6 +410,7 @@ const TOPICS_DATA = [
     ],
     "breakthrough": "瀏覽器即平台的構想威脅微軟核心，催生現代反壟斷司法判例",
     "status": "published",
+    "youtube": "https://youtu.be/4jmyDt-VFDY",
     "file": "第一次瀏覽器大戰.md"
   },
   {

@@ -401,15 +401,15 @@ const TOPICS_DATA = [
     "category": "os",
     "categoryName": "作業系統、平台與基礎軟體",
     "categoryFolder": "04_作業系統與基礎軟體",
-    "title": "第一次瀏覽器大戰",
-    "subtitle": "微軟 IE 捆綁策略如何絞殺網景引發反壟斷世紀審判",
+    "title": "微軟史上最兇狠的割喉戰！",
+    "subtitle": "比爾蓋茲如何用「免費綁架」絞殺網景，引發差點拆分微軟的世紀大審判？",
     "era": "1994 - 2001",
     "figures": [
       "Marc Andreessen",
       "Bill Gates"
     ],
     "breakthrough": "瀏覽器即平台的構想威脅微軟核心，催生現代反壟斷司法判例",
-    "status": "planned",
+    "status": "published",
     "file": "第一次瀏覽器大戰.md"
   },
   {

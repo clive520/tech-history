@@ -386,15 +386,16 @@ const TOPICS_DATA = [
     "category": "os",
     "categoryName": "作業系統、平台與基礎軟體",
     "categoryFolder": "04_作業系統與基礎軟體",
-    "title": "Linux 誕生記",
-    "subtitle": "林納斯·托瓦茲的客廳專案與自由開源軟體運動的勝利",
+    "title": "一個芬蘭大學生的「業餘愛好」",
+    "subtitle": "如何打碎微軟霸權、成為支撐全人類文明的開源基石？",
     "era": "1991 - 1999",
     "figures": [
       "Linus Torvalds",
-      "Richard Stallman"
+      "Richard Stallman",
+      "Andrew Tanenbaum"
     ],
     "breakthrough": "網際網路非中心化分散式開源協作，構築全球伺服器與超級電腦底座",
-    "status": "planned",
+    "status": "published",
     "file": "Linux_誕生記.md"
   },
   {

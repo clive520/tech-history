@@ -361,6 +361,7 @@ const TOPICS_DATA = [
     ],
     "breakthrough": "32位元搶佔式多工、隨插即用（Plug and Play）與奠定現代桌面 UI",
     "status": "published",
+    "youtube": "https://youtu.be/V36PK1muJaM",
     "file": "Windows_95_狂潮.md"
   },
   {

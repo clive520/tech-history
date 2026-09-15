@@ -1,5 +1,11 @@
 # 披星戴月排隊只為買一張軟體光碟？Windows 95 發售那一天，比爾蓋茲究竟給全世界灌了什麼迷魂湯？
 
+<div class="video-container">
+  <iframe src="https://www.youtube-nocookie.com/embed/V36PK1muJaM" title="YouTube 專題影片：Windows 95 革命：從黑暗時代到數位黎明" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+> 📺 **同步收看 YouTube 專題解說影片**：[《Windows 95 革命：從黑暗時代到數位黎明》（點此在 YouTube 開啟全螢幕）](https://youtu.be/V36PK1muJaM)
+
 > **時代座標**：1993 年 - 1996 年  
 > **領銜人物**：比爾·蓋茲（Bill Gates）、布拉德·西爾弗伯格（Brad Silverberg）、布萊恩·伊諾（Brian Eno）、史蒂夫·鮑爾默（Steve Ballmer）  
 > **核心突破**：終結 MS-DOS 時代長達十餘年的 16 位元實模式枷鎖與 640KB 記憶體地獄，建立 32 位元搶佔式多工架構。以「開始」按鈕、工作列、長檔名與隨插即用（Plug and Play）奠定了往後三十年的現代作業系統人機互動範式；更以一場豪擲三億美元、史無前例的全球文化行銷海嘯，將個人電腦由小眾商務工具徹底推向全人類流行文化的權力巔峰。

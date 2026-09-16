@@ -500,6 +500,7 @@ const TOPICS_DATA = [
     ],
     "breakthrough": "「電腦是雙手可掌控的藝術」、「所有資訊應當自由」，點燃開源與個人運算火苗",
     "status": "published",
+    "youtube": "https://youtu.be/Rp9drCAoesY",
     "file": "電話飛客與藍盒子.md"
   },
   {

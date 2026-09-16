@@ -28,11 +28,13 @@ const TOPICS_DATA = [
     "figures": [
       "Steve Jobs",
       "Jef Raskin",
+      "Bill Atkinson",
       "Andy Hertzfeld",
-      "Bill Atkinson"
+      "Burrell Smith",
+      "Ridley Scott"
     ],
-    "breakthrough": "將施樂 PARC 的圖形使用者介面與滑鼠概念推向大眾市場",
-    "status": "planned",
+    "breakthrough": "將全錄 PARC 的圖形介面與滑鼠平民化，催生下拉選單、重疊視窗與震撼超級盃的《1984》宣言",
+    "status": "published",
     "file": "Macintosh_1984.md"
   },
   {

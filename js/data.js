@@ -180,10 +180,12 @@ const TOPICS_DATA = [
     "era": "1996 - 2020",
     "figures": [
       "Jonathan Gay",
-      "Steve Jobs"
+      "Charlie Jackson",
+      "Steve Jobs",
+      "Shantanu Narayen"
     ],
-    "breakthrough": "向量動態運算與瀏覽器外掛，撐起 Web 互動娛樂半壁江山",
-    "status": "planned",
+    "breakthrough": "以向量幾何動態運算與外掛架構定義早年 Web 互動娛樂，後因封閉、耗能與安全問題遭賈伯斯公開信審判走向終結",
+    "status": "published",
     "file": "Flash_興衰錄.md"
   },
   {

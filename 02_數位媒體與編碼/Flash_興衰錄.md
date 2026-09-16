@@ -1,12 +1,18 @@
 # Flash 興衰錄：向量動畫、網頁小遊戲狂歡與賈伯斯的一紙討伐文
 
+<div class="video-container">
+  <iframe src="https://www.youtube-nocookie.com/embed/gjy-fftxaeA" title="YouTube 專題影片：Flash 興衰錄：向量動畫、網頁小遊戲狂歡與賈伯斯的一紙討伐文" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+> 📺 **同步收看 YouTube 專題解說影片**：[《Flash 興衰錄：向量動畫、網頁小遊戲狂歡與賈伯斯的一紙討伐文》（點此在 YouTube 開啟全螢幕）](https://youtu.be/gjy-fftxaeA)
+
 > **時代座標**：1993 - 2020（黃金時代 1996 - 2010）  
 > **關鍵人物**：Jonathan Gay（喬納森·蓋伊）、Charlie Jackson（查理·傑克森）、Steve Jobs（史蒂夫·賈伯斯）、Shantanu Narayen（山塔努·納拉延）  
 > **核心突破**：以極致輕量的向量幾何描述與瀏覽器外掛架構，穿透 56k 撥接時代的頻寬牢籠，催生了全球網頁互動娛樂、獨立動畫、線上影音與小遊戲浪潮；隨後在行動裝置與開放標準黎明期，因架構封閉、資源消耗、安全漏洞與觸控失配，遭到賈伯斯公開信判決死刑，見證了網路生態從「私有外掛」邁向「開放 Web」的史詩交替。
 
 ---
 
-![Macromedia Flash 時代與向量動畫工作區](../assets/images/flash_hero.jpg)
+![Macromedia Flash 時代與向量動畫工作區](assets/images/flash_hero.jpg)
 
 ---
 
@@ -61,7 +67,7 @@ DRAW_BEZIER_CURVE (x1, y1, cx, cy, x2, y2, stroke_color, fill_color)
 
 ## 三、 轉折點：商業破局、狂歡與生態爆炸
 
-![Flash 小遊戲黃金時代與網咖風潮](../assets/images/flash_golden_age.jpg)
+![Flash 小遊戲黃金時代與網咖風潮](assets/images/flash_golden_age.jpg)
 
 ### 1. 外掛普及率的奇蹟：Netscape 與 Windows 的預裝洪流
 在軟體工程史上，瀏覽器外掛（Browser Plugin）最大的痛點永遠是「用戶安裝門檻」。只要網頁彈出「請先下載並安裝外掛」，高達 80% 的用戶會直接關閉頁面。
@@ -119,7 +125,7 @@ Flash 讓串流影音變得像看電視一樣簡單——打開網頁、按下�
 
 ## 四、 終局審判：缺陷暴露、討伐檄文與巨人的落幕
 
-![賈伯斯與其發表的《Thoughts on Flash》公開信](../assets/images/jobs_thoughts_on_flash.jpg)
+![賈伯斯與其發表的《Thoughts on Flash》公開信](assets/images/jobs_thoughts_on_flash.jpg)
 
 然而，就在盛世繁華的最高峰，一場技術與哲學的劇烈地殼變動正在地底悄然醞釀。
 

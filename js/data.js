@@ -186,7 +186,8 @@ const TOPICS_DATA = [
     ],
     "breakthrough": "以向量幾何動態運算與外掛架構定義早年 Web 互動娛樂，後因封閉、耗能與安全問題遭賈伯斯公開信審判走向終結",
     "status": "published",
-    "file": "Flash_興衰錄.md"
+    "file": "Flash_興衰錄.md",
+    "youtube": "https://youtu.be/gjy-fftxaeA"
   },
   {
     "id": "streaming-netflix",

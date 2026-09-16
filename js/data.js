@@ -489,17 +489,18 @@ const TOPICS_DATA = [
     "category": "culture",
     "categoryName": "科技文化、社群與黑客精神",
     "categoryFolder": "05_科技文化與黑客精神",
-    "title": "一個哨子就能免費打通全球電話！",
-    "subtitle": "早期黑客們用口香糖玩具，如何撕開了巨頭電信網絡的遮羞布？",
+    "title": "一個塑膠口哨就能打垮全球電信帝國？",
+    "subtitle": "盲人黑客、電話飛客與賈伯斯的第一桶金",
     "era": "1959 - 1984",
     "figures": [
-      "Steven Levy",
+      "Steve Wozniak",
+      "Steve Jobs",
       "John Draper (Captain Crunch)",
-      "Richard Stallman"
+      "Joe Engressia (Joybubbles)"
     ],
     "breakthrough": "「電腦是雙手可掌控的藝術」、「所有資訊應當自由」，點燃開源與個人運算火苗",
-    "status": "planned",
-    "file": "黑客倫理_Hacker_Ethic.md"
+    "status": "published",
+    "file": "電話飛客與藍盒子.md"
   },
   {
     "id": "homebrew-club",

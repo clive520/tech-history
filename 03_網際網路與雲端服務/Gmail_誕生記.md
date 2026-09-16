@@ -1,5 +1,11 @@
 # 當全世界都以為是愚人節惡作劇！Google 如何用「1GB 永久免費」與 Ajax 撕開微軟與雅虎的鐵幕？
 
+<div class="video-container">
+  <iframe src="https://www.youtube-nocookie.com/embed/RyslEz2WRf4" title="YouTube 專題影片：史上最偉大的惡作劇：Gmail 誕生記" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+> 📺 **同步收看 YouTube 專題解說影片**：[《史上最偉大的惡作劇：Gmail 誕生記》（點此在 YouTube 開啟全螢幕）](https://youtu.be/RyslEz2WRf4)
+
 > **時代座標**：2001 年 - 2004 年  
 > **領銜人物**：保羅·布赫海特（Paul Buchheit）、拉里·佩奇（Larry Page）、謝爾蓋·布林（Sergey Brin）、瑪麗莎·梅耶爾（Marissa Mayer）、桑達爾·皮查伊（Sundar Pichai）  
 > **核心突破**：以顛覆性的「20% 自由時間專案」打破微軟 Hotmail 與雅虎 2MB/4MB 的郵箱枷鎖，豪擲超越時代 500 倍的「1GB 永久免費儲存空間」；更以秘密研發的非同步 JavaScript/DOM 技術（後被命名為 Ajax），徹底粉碎「點擊即重新整理網頁」的痛苦體驗，開創免刪郵件、全文即時檢索、會話串聚合（Conversation View）與現代 Web 2.0 雲端應用的全新紀元。

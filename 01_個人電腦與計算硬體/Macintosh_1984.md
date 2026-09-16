@@ -1,5 +1,12 @@
 # 這場價值百萬的技術大劫案，逼賈伯斯向全世界「老大哥」宣戰！
 
+<div class="video-container">
+  <iframe src="https://www.youtube-nocookie.com/embed/ObeXPlunpjA" title="YouTube 專題影片：這場價值百萬的技術大劫案，逼賈伯斯向全世界「老大哥」宣戰！" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+> 📺 **同步收看 YouTube 專題解說影片**：[《這場價值百萬的技術大劫案，逼賈伯斯向全世界「老大哥」宣戰！》（點此在 YouTube 開啟全螢幕）](https://youtu.be/ObeXPlunpjA)
+
+
 > **時代座標**：1979 年 - 1984 年  
 > **領銜人物**：史蒂夫·賈伯斯（Steve Jobs）、傑夫·拉斯金（Jef Raskin）、比爾·阿特金森（Bill Atkinson）、安迪·赫茲菲爾德（Andy Hertzfeld）、伯勒爾·史密斯（Burrell Smith）、約翰·史考利（John Sculley）、雷利·史考特（Ridley Scott）  
 > **核心突破**：以一百萬美元股票認購權為籌碼，換取全錄 PARC 實驗室圖形使用者介面（GUI）與滑鼠的核心秘密；在庫比蒂諾後花園升起海盜旗，組建技術反叛軍團，發明下拉式選單、雙擊操作與重疊視窗；斥資百萬聘請大導演雷利·史考特拍攝震撼全球的超級盃《1984》廣告，向壟斷巨頭 IBM 老大哥公開宣戰；最終推出人類第一台普及化圖形個人電腦 Macintosh，徹底改寫人機互動的歷史進程。

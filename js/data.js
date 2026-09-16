@@ -35,6 +35,7 @@ const TOPICS_DATA = [
     ],
     "breakthrough": "將全錄 PARC 的圖形介面與滑鼠平民化，催生下拉選單、重疊視窗與震撼超級盃的《1984》宣言",
     "status": "published",
+    "youtube": "https://youtu.be/ObeXPlunpjA",
     "file": "Macintosh_1984.md"
   },
   {

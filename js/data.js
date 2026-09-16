@@ -236,16 +236,17 @@ const TOPICS_DATA = [
     "category": "cloud",
     "categoryName": "網際網路服務、搜尋與雲端生態",
     "categoryFolder": "03_網際網路與雲端服務",
-    "title": "Gmail 誕生記",
-    "subtitle": "愚人節的 1GB 震撼、保羅·布克海特與 Ajax 動態網頁革命",
+    "title": "當全世界都以為是愚人節惡作劇！",
+    "subtitle": "Google 如何用「1GB 永久免費」與 Ajax 撕開微軟與雅虎的鐵幕？",
     "era": "2001 - 2004",
     "figures": [
       "Paul Buchheit",
       "Larry Page",
-      "Sergey Brin"
+      "Sergey Brin",
+      "Sundar Pichai"
     ],
     "breakthrough": "突破 2MB/5MB 信箱枷鎖，免重新整理頁面體驗定義 Web 2.0",
-    "status": "planned",
+    "status": "published",
     "file": "Gmail_誕生記.md"
   },
   {

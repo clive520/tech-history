@@ -130,10 +130,12 @@ const TOPICS_DATA = [
     "figures": [
       "Steve Jobs",
       "Scott Forstall",
-      "Jony Ive"
+      "Jony Ive",
+      "Tony Fadell",
+      "Andy Grignon"
     ],
-    "breakthrough": "電容式多點觸控（Multi-touch）、行動 Safari 完整網路體驗顛覆手機世界",
-    "status": "planned",
+    "breakthrough": "電容式多點觸控、慣性滾動與行動 Safari 完整網路體驗，以一場走鋼索般的世紀發表會顛覆手機產業",
+    "status": "published",
     "file": "智慧型手機奇異點_iPhone.md"
   },
   {

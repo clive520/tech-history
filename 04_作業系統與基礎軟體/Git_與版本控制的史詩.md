@@ -1,5 +1,11 @@
 # 惹毛天才是什麼下場？：被商業公司收回免費授權後，林納斯閉關十天怒寫出拯救全世界程式設計師的 Git！
 
+<div class="video-container">
+  <iframe src="https://www.youtube-nocookie.com/embed/zCoBBrqgFAg" title="YouTube 專題影片：惹毛天才是什麼下場？：被商業公司收回免費授權後，林納斯閉關十天怒寫出拯救全世界程式設計師的 Git！" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+> 📺 **同步收看 YouTube 專題解說影片**：[《惹毛天才是什麼下場？：被商業公司收回免費授權後，林納斯閉關十天怒寫出拯救全世界程式設計師的 Git！》（點此在 YouTube 開啟全螢幕）](https://youtu.be/zCoBBrqgFAg)
+
 > **時代座標**：2002 - 2010（爆發關鍵：2005 年 4 月）  
 > **關鍵人物**：Linus Torvalds（林納斯·托瓦茲）、Larry McVoy（拉里·麥克沃伊）、Andrew Tridgell（安德魯·特里格爾）、Junio Hamano（濱野純）  
 > **核心突破**：徹底摒棄傳統集中式版本控制對「檔案差異清單（Delta）」的低效修補邏輯，以純 C 語言將版本控制重新抽象為「基於 SHA-1 雜湊內容定址的微型檔案系統」與「有向無環圖（DAG）快照樹」；在短短十天之內單槍匹馬自舉成型，以快上一千倍的極限效能、輕如鴻毛的分支與完全去中心化拓撲，化解了 Linux 核心的致命生存危機，並催生了 GitHub 與席捲全球的開源大航海時代。

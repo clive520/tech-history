@@ -473,7 +473,8 @@ const TOPICS_DATA = [
     ],
     "breakthrough": "以 SHA-1 內容定址檔案系統與 DAG 圖形快照打造的分散式版本控制，徹底顛覆全球軟體協作範式",
     "status": "published",
-    "file": "Git_與版本控制的史詩.md"
+    "file": "Git_與版本控制的史詩.md",
+    "youtube": "https://youtu.be/zCoBBrqgFAg"
   },
   {
     "id": "geek-culture",

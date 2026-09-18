@@ -90,7 +90,7 @@ const TOPICS_DATA = [
       "Gordon Moore"
     ],
     "breakthrough": "平面工藝發明與積體電路商業化，誕生現代半導體產業群",
-    "status": "planned",
+    "status": "published",
     "file": "電晶體與矽谷黎明.md"
   },
   {

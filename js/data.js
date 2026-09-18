@@ -54,6 +54,7 @@ const TOPICS_DATA = [
     ],
     "breakthrough": "採用貨架現成零件開放標準打造 PC 5150，卻因非獨家 DOS 與乾淨室逆向 BIOS，親手將 PC 帝國拱手奉送給相容機大軍",
     "status": "published",
+    "youtube": "https://youtu.be/CvvJ1TsjF9c",
     "file": "IBM_PC_反客為主.md"
   },
   {

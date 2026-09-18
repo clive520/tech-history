@@ -1,5 +1,11 @@
 # 藍色巨人的世紀豪賭：IBM 怎麼親手把自己創造的 PC 帝國，拱手送給了相容機叛徒？
 
+<div class="video-container">
+  <iframe src="https://www.youtube-nocookie.com/embed/CvvJ1TsjF9c" title="YouTube 專題影片：藍色巨人的世紀豪賭：IBM 怎麼親手把自己創造的 PC 帝國，拱手送給了相容機叛徒？" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+> 📺 **同步收看 YouTube 專題解說影片**：[《藍色巨人的世紀豪賭：IBM 怎麼親手把自己創造的 PC 帝國，拱手送給了相容機叛徒？》（點此在 YouTube 開啟全螢幕）](https://youtu.be/CvvJ1TsjF9c)
+
 > **時代座標**：1980 年 - 1987 年（關鍵轉折：1980 秘密「西洋棋計畫」、1981 IBM PC 5150 發布、1982 康柏餐巾紙起兵、1984 鳳凰科技逆向 BIOS、1987 封閉 MCA 總線慘敗）  
 > **關鍵人物**：唐·埃斯特利奇（Don Estridge）、約翰·奧佩爾（John Opel）、比爾·蓋茲（Bill Gates）、保羅·艾倫（Paul Allen）、蒂姆·帕特森（Tim Paterson）、羅德·坎尼恩（Rod Canion）、戈登·摩爾（Gordon Moore）  
 > **核心突破**：全球電腦霸主「藍色巨人」IBM 為了擊潰 Apple II、在短短一年內交卷，破天荒打破五十年「全自研」鐵律，採取了歷史上最大膽也最致命的「完全開放架構（Open Architecture）」——晶片買英特爾的、作業系統外包給微軟、零部件全買現成貨，僅憑唯一的專有版權 BIOS 晶片作為護城河；然而，比爾·蓋茲留了一手非獨家授權協議，鳳凰科技與康柏電腦利用「乾淨室逆向工程」徹底粉碎了 BIOS 專利壁壘。一夜之間，全世界數以萬計的「IBM 相容機」以半價狂潮將發明者踩在腳下，IBM 親手替自己掘下了市值數百億美元的歷史巨坑，將人類數位時代的皇冠，拱手奉送給了微軟與英特爾的「Wintel 帝國」。

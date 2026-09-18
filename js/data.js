@@ -444,6 +444,7 @@ const TOPICS_DATA = [
     ],
     "breakthrough": "開放手機同盟（OHA）與完全免費開源授權，HTC G1 首發打破蘋果圍牆，締造覆蓋數十億裝置的綠色帝國",
     "status": "published",
+    "youtube": "https://youtu.be/nz2-OvkUiEY",
     "file": "Android_崛起史.md"
   },
   {

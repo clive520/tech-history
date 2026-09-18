@@ -1,5 +1,11 @@
 # 差點賣給三星卻被當場嘲笑！：這隻原本給相機用的綠色小機器人，最後是如何統治全球數十億手機？
 
+<div class="video-container">
+  <iframe src="https://www.youtube-nocookie.com/embed/nz2-OvkUiEY" title="YouTube 專題影片：差點賣給三星卻被當場嘲笑！這隻原本給相機用的綠色小機器人，最後是如何統治全球數十億手機？" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+> 📺 **同步收看 YouTube 專題解說影片**：[《差點賣給三星卻被當場嘲笑！這隻原本給相機用的綠色小機器人，最後是如何統治全球數十億手機？》（點此在 YouTube 開啟全螢幕）](https://youtu.be/nz2-OvkUiEY)
+
 > **時代座標**：2003 年 - 2011 年（關鍵爆發：2005 年三星羞辱與 Google 收購、2007 年推倒重寫、2008 年 HTC G1 發布）  
 > **關鍵人物**：安迪·魯賓（Andy Rubin）、里奇·米納（Rich Miner）、賴利·佩吉（Larry Page）、謝爾蓋·布林（Sergey Brin）、埃里克·施密特（Eric Schmidt）、史蒂夫·賈伯斯（Steve Jobs）、王雪紅（Cher Wang）、周永明（Peter Chou）  
 > **核心突破**：從最初瀕臨破產的「連網相機系統」，到首爾三星會議室中被 20 位西裝副總裁當面嗤笑「你們只有八個人」；在被 Google 以 5,000 萬美元閃電收購後，又遭遇 2007 年賈伯斯 iPhone 發表會的降維打擊，毅然將全套 BlackBerry 式代碼推倒重來；憑藉 Linux 核心底層、Dalvik 暫存器虛擬機、完全免費且開源的 Apache 2.0 授權，以及組建「開放手機同盟（OHA）」，與台灣宏達電（HTC）攜手推出世界第一款 Android 手機 HTC Dream (T-Mobile G1)，以「木馬屠城」般的開源同盟打碎了蘋果與電信商的圍牆花園，最終長成統治全球數十億行動裝置的開源綠巨人。

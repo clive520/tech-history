@@ -67,10 +67,12 @@ const TOPICS_DATA = [
     "era": "1981 - 2010",
     "figures": [
       "Andy Grove",
-      "Bill Gates"
+      "Bill Gates",
+      "Gordon Moore",
+      "Steve Ballmer"
     ],
-    "breakthrough": "硬體摩爾定律與軟體肥大定律的完美共振，確立 PC 產業標準",
-    "status": "planned",
+    "breakthrough": "摩爾定律與軟體肥大定律的完美共振，「安迪給予，比爾奪走」鎖死全球 PC 產業三十年",
+    "status": "published",
     "file": "Wintel_雙雄記.md"
   },
   {

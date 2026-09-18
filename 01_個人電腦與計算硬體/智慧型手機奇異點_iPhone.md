@@ -1,5 +1,11 @@
 # 發表會前一秒隨時會當機！：2007 年賈伯斯那場差點翻車的世紀大騙局，如何一夜埋葬諾基亞？
 
+<div class="video-container">
+  <iframe src="https://www.youtube-nocookie.com/embed/1uxODV_e4Bg" title="YouTube 專題影片：發表會前一秒隨時會當機！：2007 年賈伯斯那場差點翻車的世紀大騙局，如何一夜埋葬諾基亞？" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+> 📺 **同步收看 YouTube 專題解說影片**：[《發表會前一秒隨時會當機！：2007 年賈伯斯那場差點翻車的世紀大騙局，如何一夜埋葬諾基亞？》（點此在 YouTube 開啟全螢幕）](https://youtu.be/1uxODV_e4Bg)
+
 > **時代座標**：2005 年 - 2008 年  
 > **關鍵人物**：史蒂夫·賈伯斯（Steve Jobs）、史考特·福斯托爾（Scott Forstall）、托尼·法戴爾（Tony Fadell）、強納生·伊夫（Jony Ive）、安迪·格里農（Andy Grignon）  
 > **核心突破**：徹底淘汰實體 QWERTY 塑膠鍵盤與電阻式觸控筆，以電容式多點觸控（Multi-touch）、物理慣性平滑滾動（Inertial Scrolling）與真正完整的桌面級 Mobile Safari 瀏覽器，重新定義了「手機」的本質；在一台記憶體洩漏嚴重、隨時可能黑屏死機的半成品原型機上，賈伯斯與工程師以瞞天過海的「黃金操作路徑」，完成了科技史上最偉大的世紀發表會，將諾基亞、黑莓與摩托羅拉的按鍵帝國送入歷史墳墓。

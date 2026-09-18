@@ -45,13 +45,15 @@ const TOPICS_DATA = [
     "categoryFolder": "01_個人電腦與計算硬體",
     "title": "藍色巨人的世紀豪賭",
     "subtitle": "IBM 怎麼親手把自己創造的 PC 帝國，拱手送給了相容機叛徒？",
-    "era": "1980 - 1985",
+    "era": "1980 - 1987",
     "figures": [
       "Don Estridge",
-      "Bill Gates"
+      "Bill Gates",
+      "Rod Canion",
+      "Tim Paterson"
     ],
-    "breakthrough": "採用現成零件開放標準打造 PC，意外讓硬體相容機與微軟軟體成為主角",
-    "status": "planned",
+    "breakthrough": "採用貨架現成零件開放標準打造 PC 5150，卻因非獨家 DOS 與乾淨室逆向 BIOS，親手將 PC 帝國拱手奉送給相容機大軍",
+    "status": "published",
     "file": "IBM_PC_反客為主.md"
   },
   {

@@ -73,6 +73,7 @@ const TOPICS_DATA = [
     ],
     "breakthrough": "摩爾定律與軟體肥大定律的完美共振，「安迪給予，比爾奪走」鎖死全球 PC 產業三十年",
     "status": "published",
+    "youtube": "https://youtu.be/P3X7NuQolnk",
     "file": "Wintel_雙雄記.md"
   },
   {

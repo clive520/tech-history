@@ -1,5 +1,11 @@
 # 躺著收割全球三十年！：微軟與英特爾的「邪惡同盟」是怎麼勒索整個科技界的？
 
+<div class="video-container">
+  <iframe src="https://www.youtube-nocookie.com/embed/P3X7NuQolnk" title="YouTube 專題影片：躺著收割全球三十年！：微軟與英特爾的「邪惡同盟」是怎麼勒索整個科技界的？" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+> 📺 **同步收看 YouTube 專題解說影片**：[《躺著收割全球三十年！：微軟與英特爾的「邪惡同盟」是怎麼勒索整個科技界的？》（點此在 YouTube 開啟全螢幕）](https://youtu.be/P3X7NuQolnk)
+
 > **時代座標**：1981 年 - 2010 年（黃金統治期：1990 年代 - 2000 年代初）  
 > **關鍵人物**：比爾·蓋茲（Bill Gates）、安迪·葛洛夫（Andy Grove）、戈登·摩爾（Gordon Moore）、史蒂夫·鮑爾默（Steve Ballmer）、克雷格·貝瑞特（Craig Barrett）、內森·梅爾沃德（Nathan Myhrvold）  
 > **核心突破**：在推翻 IBM 專制王朝後，軟體巨頭微軟（Windows）與晶片霸主英特爾（Intel x86）結成了商業史上最無情也最暴利的共生絞殺同盟——「Wintel 帝國」。藉由「摩爾定律（硬體每 18 個月算力翻倍）」與「蓋茲定律（軟體每 18 個月膨脹一倍）」的完美共振，創造了矽谷最殘酷的循環黑洞——「安迪給予的，比爾必將奪走（What Andy giveth, Bill taketh away）」。他們將全世界數以萬計的 PC 硬體製造商淪為微薄毛利的「搬箱工」，聯手壟斷全球逾 90% 的個人電腦市場長達三十年；然而，這對表面稱兄道弟的科技教父，背地裡卻為了爭奪架構控制權相互背刺、暗藏殺機，直到智慧手機與行動運算的世紀海嘯呼嘯而至，才終結了這場長達三十年的無情收割。

@@ -91,6 +91,7 @@ const TOPICS_DATA = [
     ],
     "breakthrough": "平面工藝發明與積體電路商業化，誕生現代半導體產業群",
     "status": "published",
+    "youtube": "https://youtu.be/rOAMK-QOTqE",
     "file": "電晶體與矽谷黎明.md"
   },
   {

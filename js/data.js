@@ -432,16 +432,18 @@ const TOPICS_DATA = [
     "category": "os",
     "categoryName": "作業系統、平台與基礎軟體",
     "categoryFolder": "04_作業系統與基礎軟體",
-    "title": "Android 崛起史",
-    "subtitle": "從相機系統到被 Google 收購、對抗 iOS 的開源綠巨人",
+    "title": "差點賣給三星卻被當場嘲笑！",
+    "subtitle": "這隻原本給相機用的綠色小機器人，最後是如何統治全球數十億手機？",
     "era": "2003 - 2011",
     "figures": [
       "Andy Rubin",
       "Larry Page",
-      "Eric Schmidt"
+      "Eric Schmidt",
+      "Steve Jobs",
+      "Cher Wang"
     ],
-    "breakthrough": "開放手機同盟（OHA）與免費開源授權，短時間內搶下全球八成市佔",
-    "status": "planned",
+    "breakthrough": "開放手機同盟（OHA）與完全免費開源授權，HTC G1 首發打破蘋果圍牆，締造覆蓋數十億裝置的綠色帝國",
+    "status": "published",
     "file": "Android_崛起史.md"
   },
   {

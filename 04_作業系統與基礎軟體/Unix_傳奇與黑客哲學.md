@@ -1,5 +1,11 @@
 # 因為想在辦公室偷玩《星際旅行》遊戲：兩個天才工程師竟然順手敲出了統治世界的現代作業系統基石？
 
+<div class="video-container">
+  <iframe src="https://www.youtube-nocookie.com/embed/oOK591tnWD4" title="YouTube 專題影片：因為想在辦公室偷玩《星際旅行》遊戲：兩個天才工程師竟然順手敲出了統治世界的現代作業系統基石？" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+> 📺 **同步收看 YouTube 專題解說影片**：[《因為想在辦公室偷玩《星際旅行》遊戲：兩個天才工程師竟然順手敲出了統治世界的現代作業系統基石？》（點此在 YouTube 開啟全螢幕）](https://youtu.be/oOK591tnWD4)
+
 > **時代座標**：1969 年 – 1984 年（關鍵轉折：1969 貝爾實驗室撤出 Multics 泥潭、肯·湯普遜在廢棄 PDP-7 寫《Space Travel》並於四星期內手搓出 Unix 原型、1970 命名 UNIX 並確立紀元元年 1970-01-01、1971 以專利部排版機為名「偷渡」PDP-11、1972 丹尼斯·里奇發明 C 語言、1973 首次以 C 語言重寫 Unix 內核打破硬體束縛、1974 伯克利引進催生 BSD 與網際網路 TCP/IP、1983 湯普遜與里奇榮獲圖靈獎、1984 AT&T 分拆引發 Unix 商業版權大戰）  
 > **關鍵人物**：肯·湯普遜（Ken Thompson）、丹尼斯·里奇（Dennis Ritchie）、布萊恩·柯林漢（Brian Kernighan）、道格拉斯·麥克羅伊（Douglas McIlroy）、喬·奧桑納（Joe Ossanna）、比爾·喬伊（Bill Joy）、理查·斯托曼（Richard Stallman）、林納斯·托瓦茲（Linus Torvalds）  
 > **核心突破**：從耗資數百萬美元、深陷官僚泥潭的 Multics 巨型專案狼狽撤退後，貝爾實驗室（Bell Labs）的兩個年輕工程師為了解決在大型主機 GE-645 上每玩一次《星際旅行（Space Travel）》遊戲就要燒掉 75 美元昂貴電腦時鐘的窘境，盯上了一台被丟在走廊角落積灰的廢棄 DEC PDP-7 小型機。趁著妻子帶兒子去加州探親的一個月空檔，肯·湯普遜以每週一個模組的狂暴手速，獨自手搓出了檔案系統、進程排程器、命令列直譯器（Shell）與編輯器，打造出極簡作業系統原型「Unics」。丹尼斯·里奇隨後為了徹底擺脫組合語言對硬體的束縛，順手發明了統治人類軟體史的「C 語言」，並於 1973 年完成作業系統史上首次以高階語言重構核心的壯舉。「一切皆檔案（Everything is a file）」的優雅抽象、「管線（Pipeline `|`）」的積木式組合哲學，與「做一件事並做好」的極簡黑客信條，讓 Unix 像病毒般席捲全球大學與科研機構，最終孕育出 BSD、macOS、iOS、Linux、Android 與整個現代網際網路雲端的骨幹基石。

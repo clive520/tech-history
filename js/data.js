@@ -401,6 +401,7 @@ const TOPICS_DATA = [
     ],
     "breakthrough": "C 語言改寫核心實現跨硬體可移植性，管線（Pipeline）哲學流芳至今",
     "status": "published",
+    "youtube": "https://youtu.be/oOK591tnWD4",
     "file": "Unix_傳奇與黑客哲學.md"
   },
   {

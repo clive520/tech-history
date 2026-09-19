@@ -126,7 +126,7 @@ const TOPICS_DATA = [
       "Richard Sapper"
     ],
     "breakthrough": "日式松花堂便當盒靈感、TrackPoint 紅點游標與航太級堅固設計",
-    "status": "planned",
+    "status": "published",
     "file": "ThinkPad_黑盒子傳奇.md"
   },
   {

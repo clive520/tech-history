@@ -127,6 +127,7 @@ const TOPICS_DATA = [
     ],
     "breakthrough": "日式松花堂便當盒靈感、TrackPoint 紅點游標與航太級堅固設計",
     "status": "published",
+    "youtube": "https://youtu.be/tJlfJS9ARO0",
     "file": "ThinkPad_黑盒子傳奇.md"
   },
   {

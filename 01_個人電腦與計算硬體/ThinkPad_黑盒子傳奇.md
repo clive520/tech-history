@@ -1,5 +1,11 @@
 # ThinkPad 黑盒子傳奇：日本大和實驗室精工、小紅點與商務筆電之王
 
+<div class="video-container">
+  <iframe src="https://www.youtube-nocookie.com/embed/tJlfJS9ARO0" title="YouTube 專題影片：ThinkPad 黑盒子傳奇：日本大和實驗室精工、小紅點與商務筆電之王" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+> 📺 **同步收看 YouTube 專題解說影片**：[《ThinkPad 黑盒子傳奇：日本大和實驗室精工、小紅點與商務筆電之王》（點此在 YouTube 開啟全螢幕）](https://youtu.be/tJlfJS9ARO0)
+
 > **時代座標**：1990 年 – 至今（關鍵轉折：1990 日本大和實驗室秘密研發、1992 ThinkPad 700C 震撼 Comdex 大展、1993 STS-61 任務隨奮進號太空梭登陸太空修復哈伯望遠鏡、1995 ThinkPad 701C 蝴蝶機誕生獲 MoMA 永久館藏、2000 T 系列誕生確立商務性能標竿、2004 聯想 12.5 億美元收購 IBM PC 部門、2008 X300 代號「小太刀」極致輕薄、2012 X1 Carbon 碳纖維旗艦降臨）  
 > **關鍵人物**：內藤在正（Arimasa Naitoh，ThinkPad 之父）、理查·薩珀（Richard Sapper，傳奇工業設計大師）、約翰·卡利（John Karidis，小紅點與蝴蝶鍵盤發明人）、托馬斯·J·沃森（Thomas J. Watson，IBM 創始人與「THINK」哲學奠基者）、路易士·郭士納（Louis Gerstner，IBM 轉型拯救者）、楊元慶（聯想集團董事長）  
 > **核心突破**：在個人電腦被笨拙、廉價灰白塑料統治的 1990 年代初，IBM 日本大和實驗室與工業設計大師理查·薩珀另闢蹊徑，以日本傳統「松花堂便當盒（Shokado Bento）」為靈感，打造出漆黑如黑曜石、簡約剛毅的傳奇造型。鍵盤中央那顆鮮紅欲滴的微型指點桿「TrackPoint（小紅點）」，讓打字員實現了「雙手十指永不離開主鍵區」的人體工學神話。配合防滾架（Roll Cage）、鍵盤防潑水導流、鷹翼仿生散熱與單手開合的金屬阻尼鉸鏈，ThinkPad 成為唯一通過 NASA 嚴苛太空認證的個人電腦，征服國際太空站、珠穆朗瑪峰與南極冰原，不僅確立了全球高階商務運算的至尊標準，更在個人電腦利潤歸零的殘酷洗牌中，締造了從藍色巨人到聯想跨國併購依然歷久彌新的工藝信仰。

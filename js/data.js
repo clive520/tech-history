@@ -110,6 +110,7 @@ const TOPICS_DATA = [
     ],
     "breakthrough": "定義 GPU（圖形處理器）概念，從 3D 遊戲加速走向平行運算與全球 AI 算力心臟",
     "status": "published",
+    "youtube": "https://youtu.be/-KMd71IZZck",
     "file": "GPU_崛起與光影革命.md"
   },
   {

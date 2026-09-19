@@ -1,5 +1,11 @@
 # 從被砸碎的 3Dfx 巫毒卡，到掌控全球 AI 的兆元帝國！黃仁勳的三次世紀豪賭
 
+<div class="video-container">
+  <iframe src="https://www.youtube-nocookie.com/embed/-KMd71IZZck" title="YouTube 專題影片：從被砸碎的 3Dfx 巫毒卡，到掌控全球 AI 的兆元帝國！黃仁勳的三次世紀豪賭" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+> 📺 **同步收看 YouTube 專題解說影片**：[《從被砸碎的 3Dfx 巫毒卡，到掌控全球 AI 的兆元帝國！黃仁勳的三次世紀豪賭》（點此在 YouTube 開啟全螢幕）](https://youtu.be/-KMd71IZZck)
+
 > **時代座標**：1993 年 – 至今（關鍵轉折：1993 Denny's 卡座創業、1995 NV1 押錯二次曲面瀕臨破產、1997 RIVA 128 背水一戰、1999 發布 GeForce 256 正式定義 GPU、2000 收購昔日霸主 3Dfx、2006 推出 CUDA 走向通用並行計算、2012 AlexNet 奪冠點燃深度學習革命、2022-2024 生成式 AI 狂潮登頂全球最高市值公司）  
 > **關鍵人物**：黃仁勳（Jensen Huang）、克里斯·馬拉科夫斯基（Chris Malachowsky）、柯蒂斯·普里姆（Curtis Priem）、入交昭一郎（Shoichiro Irimajiri）、斯科特·塞勒斯（Scott Sellers）、戈登·坎貝爾（Gordon Campbell）、約翰·卡馬克（John Carmack）、傑弗里·辛頓（Geoffrey Hinton）、亞歷克斯·克里熱夫斯基（Alex Krizhevsky）、伊利亞·蘇茨克維（Ilya Sutskever）、山姆·奧特曼（Sam Altman）  
 > **核心突破**：從加州平價連鎖餐廳 Denny's 一張布滿咖啡漬與彈孔痕跡的餐桌起步，黃仁勳帶領 NVIDIA 經歷了三次險些滅頂的生死豪賭——從首款晶片 NV1 押錯二次曲面差點破產、到在 3Dfx 巫毒卡（Voodoo）壟斷市場時以「每六個月性能翻倍」的狂暴節奏發明「GPU（圖形處理器）」名詞完成驚天反殺，再到 2006 年頂著華爾街集體看衰，每年砸下數十億美元在每顆 GPU 裡硬塞 CUDA 平行運算架構。三十年間，NVIDIA 將 GPU 從專為電腦遊戲繪製 3D 多邊形的像素玩具，轉變為支撐全球大語言模型、自駕車與超級電腦的「AI 算力心臟」，締造了半導體歷史上最波瀾壯闊的商業神話。

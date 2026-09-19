@@ -693,7 +693,7 @@ const TOPICS_DATA = [
       "Norio Ohga"
     ],
     "breakthrough": "極致硬體工藝遭遇封閉版權與開放數位壓縮檔案衝擊，隨身聽霸權移交 iPod",
-    "status": "planned",
+    "status": "published",
     "file": "Sony_格式戰爭.md"
   },
   {

@@ -554,14 +554,20 @@ const TOPICS_DATA = [
     "categoryFolder": "05_科技文化與黑客精神",
     "title": "被美國國防部列為「走私軍火」的代碼！",
     "subtitle": "這群密碼學瘋子抗爭了三十年，最後把世界引向了比特幣",
-    "era": "1992 - 2008",
+    "era": "1976 - 2009",
     "figures": [
+      "Phil Zimmermann",
       "Timothy C. May",
       "Eric Hughes",
+      "John Gilmore",
+      "Hal Finney",
+      "Nick Szabo",
+      "Adam Back",
+      "Wei Dai",
       "Satoshi Nakamoto"
     ],
-    "breakthrough": "用非對稱加密技術保障數位人權，催生去中心化加密貨幣體系",
-    "status": "planned",
+    "breakthrough": "以非對稱加密與開源代碼擊碎美國 ITAR 軍火管制鐵幕，創立密碼龐克社群並接力發明工作量證明與數位黃金，最終孕育比特幣創世誕生",
+    "status": "published",
     "file": "Cypherpunk_密碼龐克狂潮.md"
   },
   {

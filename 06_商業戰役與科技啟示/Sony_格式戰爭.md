@@ -1,5 +1,11 @@
 # 被成人影業狠狠背刺？Sony 在錄影帶大戰輸給 VHS、又在 MP3 時代自廢武功的慘痛教訓
 
+<div class="video-container">
+  <iframe src="https://www.youtube-nocookie.com/embed/ZwNxFr9hzGI" title="YouTube 專題影片：被成人影業狠狠背刺？Sony 在錄影帶大戰輸給 VHS、又在 MP3 時代自廢武功的慘痛教訓" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+> 📺 **同步收看 YouTube 專題解說影片**：[《被成人影業狠狠背刺？Sony 在錄影帶大戰輸給 VHS、又在 MP3 時代自廢武功的慘痛教訓》（點此在 YouTube 開啟全螢幕）](https://youtu.be/ZwNxFr9hzGI)
+
 > **時代座標**：1975 年 – 2008 年（關鍵轉折：1975 Betamax 震撼發表、1976 JVC 推出 VHS、1977 超級盃直播與 2 小時錄影時長大逆轉、1982 成人影視租賃生態全面倒向 VHS、1984 索尼環球影業最高法院勝訴但失市場、1988 索尼認輸宣布生產 VHS、1992 MD 隨身聽發表、1999 MP3 浪潮與索尼內部硬體版權內戰、2001 蘋果發表 iPod、2005 索尼 BMG Rootkit 惡意軟體醜聞、2008 藍光擊敗 HD DVD 卻迎來串流新紀元）  
 > **關鍵人物**：盛田昭夫（Akio Morita，索尼創辦人）、大賀典雄（Norio Ohga，索尼傳奇社長與音樂家）、出井伸之（Nobuyuki Idei，索尼網路時代轉型推手）、高野鎮雄（Shizuo Takano，JVC「VHS 之父」）、松下幸之助（Konosuke Matsushita，松下電器創始人）、史蒂夫·賈伯斯（Steve Jobs，蘋果創辦人）  
 > **核心突破**：索尼（Sony）以極致的工程美學與「技術第一」的傲岸哲學，在 20 世紀下半葉打造了全球消費電子領域不可撼動的神話帝國。然而，這家催生了特里尼特龍（Trinitron）顯像管與 Walkman 隨身聽的技術巨擘，卻在商業史上留下了兩次最昂貴、最具啟示性的悲壯潰敗：在 1970 年代的錄影帶世紀之戰中，畫質超群的 Betamax 因盛田昭夫執念於「一小時」精緻規格與高傲的封閉授權，被 JVC 聯合松下以「兩小時時長」和擁抱成人租賃市場的草根聯盟徹底顛覆；三十年後，坐擁 Walkman 全球四億台神性地位的索尼，又因收購哥倫比亞影業與 CBS 唱片後陷入硬體與版權部門的互疑內耗，固步自封於封閉專利格式 ATRAC 與近乎偏執的神經質防盜版軟體（SonicStage 與 Rootkit 醜聞），親手將數位音樂革命的王權，拱手奉送給了用開放 MP3 與極致體驗重構遊戲規則的賈伯斯與 iPod。這是一部關於技術崇拜如何淪為商業盲目、封閉花園如何被開放生態吞噬的百年科技警示錄。

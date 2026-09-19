@@ -694,6 +694,7 @@ const TOPICS_DATA = [
     ],
     "breakthrough": "極致硬體工藝遭遇封閉版權與開放數位壓縮檔案衝擊，隨身聽霸權移交 iPod",
     "status": "published",
+    "youtube": "https://youtu.be/ZwNxFr9hzGI",
     "file": "Sony_格式戰爭.md"
   },
   {

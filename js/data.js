@@ -400,8 +400,8 @@ const TOPICS_DATA = [
       "Brian Kernighan"
     ],
     "breakthrough": "C 語言改寫核心實現跨硬體可移植性，管線（Pipeline）哲學流芳至今",
-    "status": "planned",
-    "file": "UNIX_傳奇.md"
+    "status": "published",
+    "file": "Unix_傳奇與黑客哲學.md"
   },
   {
     "id": "linux-birth",

@@ -99,15 +99,17 @@ const TOPICS_DATA = [
     "category": "hardware",
     "categoryName": "個人電腦與計算硬體",
     "categoryFolder": "01_個人電腦與計算硬體",
-    "title": "GPU 崛起與光影革命",
-    "subtitle": "從 3Dfx Voodoo 巫毒卡到 NVIDIA 的運算帝國",
-    "era": "1995 - 至今",
+    "title": "從被砸碎的 3Dfx 巫毒卡，到掌控全球 AI 的兆元帝國！",
+    "subtitle": "黃仁勳的三次世紀豪賭與 GPU 算力革命",
+    "era": "1993 - 至今",
     "figures": [
       "Jensen Huang (黃仁勳)",
+      "Chris Malachowsky",
+      "Curtis Priem",
       "Scott Sellers"
     ],
-    "breakthrough": "定義 GPU（圖形處理器）概念，從 3D 遊戲加速走向平行運算與 AI 世界心臟",
-    "status": "planned",
+    "breakthrough": "定義 GPU（圖形處理器）概念，從 3D 遊戲加速走向平行運算與全球 AI 算力心臟",
+    "status": "published",
     "file": "GPU_崛起與光影革命.md"
   },
   {

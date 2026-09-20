@@ -568,6 +568,7 @@ const TOPICS_DATA = [
     ],
     "breakthrough": "以非對稱加密與開源代碼擊碎美國 ITAR 軍火管制鐵幕，創立密碼龐克社群並接力發明工作量證明與數位黃金，最終孕育比特幣創世誕生",
     "status": "published",
+    "youtube": "https://youtu.be/G0sqcghJKJs",
     "file": "Cypherpunk_密碼龐克狂潮.md"
   },
   {

@@ -1,5 +1,11 @@
 # 被美國國防部列為「走私軍火」的代碼！這群密碼學瘋子抗爭了三十年，最後把世界引向了比特幣
 
+<div class="video-container">
+  <iframe src="https://www.youtube-nocookie.com/embed/G0sqcghJKJs" title="YouTube 專題影片：被美國國防部列為「走私軍火」的代碼！這群密碼學瘋子抗爭了三十年，最後把世界引向了比特幣" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+> 📺 **同步收看 YouTube 專題解說影片**：[《被美國國防部列為「走私軍火」的代碼！這群密碼學瘋子抗爭了三十年，最後把世界引向了比特幣》（點此在 YouTube 開啟全螢幕）](https://youtu.be/G0sqcghJKJs)
+
 > **時代座標**：1976 年 – 2009 年（從非對稱密碼學破曉到比特幣創世區塊誕生）  
 > **領銜人物**：菲爾·齊默爾曼（Phil Zimmermann）、提摩西·梅（Timothy C. May）、埃里克·休斯（Eric Hughes）、約翰·吉爾摩（John Gilmore）、大衛·喬姆（David Chaum）、亞當·貝克（Adam Back）、戴偉（Wei Dai）、尼克·薩博（Nick Szabo）、哈爾·芬尼（Hal Finney）、中本聰（Satoshi Nakamoto）  
 > **核心突破**：以數學定理與開源代碼為盾牌，發動長達三十年的「第一次密碼學戰爭」（Crypto Wars），成功衝破美國國防部與國安局（NSA）將密碼技術列為「一級軍火管制（ITAR）」的國家壟斷鐵幕；在《密碼龐克宣言》「密碼龐克動手寫代碼」的號召下，接力發明盲簽名、Hashcash 工作量證明、B-money、Bit Gold 與 RPOW，最終在 2008 年全球金融海嘯的廢墟之上，由匿名極客中本聰熔鑄出人類歷史上第一個無需信任中介的去中心化數位現金——比特幣。

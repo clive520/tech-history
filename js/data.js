@@ -175,13 +175,18 @@ const TOPICS_DATA = [
     "categoryFolder": "02_數位媒體與編碼",
     "title": "JPEG 與 PNG 的誕生",
     "subtitle": "讓網際網路看得見的影像壓縮與專利防禦戰",
-    "era": "1991 - 1996",
+    "era": "1986 - 1999",
     "figures": [
-      "Thomas Richter",
-      "Lee Daniel Crocker"
+      "Nasir Ahmed",
+      "Gregory Wallace",
+      "Marc Andreessen",
+      "Steve Wilhite",
+      "Thomas Boutell",
+      "Lee Daniel Crocker",
+      "Glenn Randers-Pehrson"
     ],
-    "breakthrough": "離散餘弦變換（DCT）與無失真開源格式對抗 Unisys GIF 專利收費",
-    "status": "planned",
+    "breakthrough": "離散餘弦轉換（DCT）解鎖全彩照片壓縮，開源社群火線發明 PNG 擊潰 Unisys LZW 專利勒索",
+    "status": "published",
     "file": "JPEG_與_PNG_的誕生.md"
   },
   {

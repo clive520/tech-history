@@ -318,12 +318,16 @@ const TOPICS_DATA = [
     "subtitle": "PageRank 演算法是怎麼把雅虎的人工分類徹底掃進垃圾堆？",
     "era": "1994 - 2002",
     "figures": [
-      "Jerry Yang (楊致遠)",
       "Larry Page",
-      "Sergey Brin"
+      "Sergey Brin",
+      "Jerry Yang (楊致遠)",
+      "David Filo",
+      "Andy Bechtolsheim",
+      "George Bell",
+      "Susan Wojcicki"
     ],
-    "breakthrough": "將學術論文引文概念引入超連結網頁評分，顛覆傳統關鍵字搜尋",
-    "status": "planned",
+    "breakthrough": "將超連結拓撲轉化為同儕信任投票，以 PageRank 演算法與廉價 PC 叢集粉碎入口網站臃腫的人工目錄，重塑人類知識檢索",
+    "status": "published",
     "file": "搜尋引擎演進史.md"
   },
   {

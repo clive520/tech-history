@@ -1,5 +1,11 @@
 # 讓全世界網頁第一次看得見圖片！一場粉碎專利流氓的開源絕地反擊戰：JPEG 與 PNG 的誕生
 
+<div class="video-container">
+  <iframe src="https://www.youtube-nocookie.com/embed/NPHmZLYX0Mg" title="YouTube 專題影片：讓全世界網頁第一次看得見圖片！一場粉碎專利流氓的開源絕地反擊戰：JPEG 與 PNG 的誕生" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+> 📺 **同步收看 YouTube 專題解說影片**：[《讓全世界網頁第一次看得見圖片！一場粉碎專利流氓的開源絕地反擊戰：JPEG 與 PNG 的誕生》（點此在 YouTube 開啟全螢幕）](https://youtu.be/NPHmZLYX0Mg)
+
 > **時代座標**：1986 年 – 2004 年（從離散餘弦轉換應用、1993 年 Mosaic 瀏覽器支援行內圖片，到 1994 年 Unisys LZW 專利風暴、PNG 的火線誕生與 1999 年「燒毀所有 GIF」運動）  
 > **領銜人物**：納西爾·艾哈邁德（Nasir Ahmed）、格雷戈里·華萊士（Gregory Wallace）、馬克·安德森（Marc Andreessen）、史蒂夫·威爾海特（Steve Wilhite）、托馬斯·布特爾（Thomas Boutell）、李·丹尼爾·克羅克（Lee Daniel Crocker）、格倫·蘭德斯-佩爾森（Glenn Randers-Pehrson）  
 > **核心突破**：利用「離散餘弦轉換」（DCT）與人類視網膜的生理感知盲區，JPEG 將原本沉重無比的高解析度全彩照片壓縮至原本體積的幾十分之一，讓撥接網路時代的全球資訊網第一次擁有了五彩斑斕的真實視野；而面對科技巨頭 Unisys 揮舞 LZW 專利大棒對全網 GIF 格式發起的空前敲詐，全球開源黑客僅用數週時間在 Usenet 郵件討論組中接力協作，打造出完全免專利、支援 24 位元真彩色與 8 位元 Alpha 漸變平滑透明的全新無損標準——PNG，打贏了數位文明史上最驚心動魄、影響深遠的開源自由保衛戰。

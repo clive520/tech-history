@@ -328,6 +328,7 @@ const TOPICS_DATA = [
     ],
     "breakthrough": "將超連結拓撲轉化為同儕信任投票，以 PageRank 演算法與廉價 PC 叢集粉碎入口網站臃腫的人工目錄，重塑人類知識檢索",
     "status": "published",
+    "youtube": "https://youtu.be/-lW-dRCkVl4",
     "file": "搜尋引擎演進史.md"
   },
   {

@@ -374,10 +374,15 @@ const TOPICS_DATA = [
     "era": "1996 - 2010",
     "figures": [
       "Yair Goldfinger",
-      "Arik Vardi"
+      "Arik Vardi",
+      "Sefi Vigiser",
+      "Amnon Amir",
+      "Steve Case",
+      "Bill Gates",
+      "Steve Ballmer"
     ],
-    "breakthrough": "在線狀態偵測（Presence）與點對點文字傳輸，取代電子郵件成為即時互動首選",
-    "status": "planned",
+    "breakthrough": "首創在線狀態感知與雙向好友名單，以 P2P 輕量協議突破地理邊界，透過自訂表情包、視窗震動與狀態廣播重塑全球千禧世代社交記憶",
+    "status": "published",
     "file": "即時通訊演變史.md"
   },
   {

@@ -1,5 +1,11 @@
 # 不用再盯著紙本地圖迷路！Google 怎麼把 CIA 的衛星黑科技，變成了人手一張的上帝視角？
 
+<div class="video-container">
+  <iframe src="https://www.youtube-nocookie.com/embed/QGifuhhkFek" title="YouTube 專題影片：不用再盯著紙本地圖迷路！Google 怎麼把 CIA 的衛星黑科技，變成了人手一張的上帝視角？" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+> 📺 **同步收看 YouTube 專題解說影片**：[《不用再盯著紙本地圖迷路！Google 怎麼把 CIA 的衛星黑科技，變成了人手一張的上帝視角？》（點此在 YouTube 開啟全螢幕）](https://youtu.be/QGifuhhkFek)
+
 > **時代座標**：2001 年 – 2012 年（從雪梨閣樓兩兄弟手搓動態瓦片地圖、中情局秘密投資 Keyhole 3D 虛擬地球，到 Google 閃電併購、卡崔娜颶風實戰救援、街景車征服現實世界的史詩傳奇）  
 > **領銜人物**：拉斯·拉斯穆森（Lars Rasmussen）、延斯·拉斯穆森（Jens Rasmussen）、約翰·漢克（John Hanke）、馬克·奧賓（Mark Aubin）、賴利·佩吉（Larry Page）、謝爾蓋·布林（Sergey Brin）、塞巴斯蒂安·特倫（Sebastian Thrun）  
 > **核心突破**：徹底打破 Web 1.0 時代點擊按鈕重載整頁（Full Page Reload）的地圖惡夢，首創基於 Ajax 與 JavaScript DOM 操控的 256×256 地圖切片（Map Tiles）平滑拖曳架構；融合中情局軍用級 3D 空間分割與四元樹（Quadtree）串流演算法，打造震撼全球的 Google Earth「上帝視角」；以 Web 墨卡托投影、S2 球面幾何空間索引與車載 360 度光達全景拼合技術，將物理世界的每一條街道、每一座建築數位孿生化，永久重構了全人類對地理空間的認知與導航方式。

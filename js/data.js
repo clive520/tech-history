@@ -295,6 +295,7 @@ const TOPICS_DATA = [
     ],
     "breakthrough": "首創基於 Ajax 與 JavaScript 的 256×256 瓦片無縫拖曳架構，融合中情局軍用級 3D 空間四元樹串流與車載光達全景測繪，將全球物理世界數位孿生化",
     "status": "published",
+    "youtube": "https://youtu.be/QGifuhhkFek",
     "file": "Google_Maps_前世今生.md"
   },
   {

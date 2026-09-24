@@ -283,14 +283,18 @@ const TOPICS_DATA = [
     "categoryFolder": "03_網際網路與雲端服務",
     "title": "不用再盯著紙本地圖迷路！",
     "subtitle": "Google 怎麼把 CIA 的衛星黑科技，變成了人手一張的上帝視角？",
-    "era": "2003 - 2007",
+    "era": "2001 - 2012",
     "figures": [
       "Lars Rasmussen",
       "Jens Rasmussen",
-      "John Hanke"
+      "John Hanke",
+      "Mark Aubin",
+      "Larry Page",
+      "Sergey Brin",
+      "Sebastian Thrun"
     ],
-    "breakthrough": "切片圖資（Map Tiles）無縫拖曳技術與全方位衛星 3D 視覺化",
-    "status": "planned",
+    "breakthrough": "首創基於 Ajax 與 JavaScript 的 256×256 瓦片無縫拖曳架構，融合中情局軍用級 3D 空間四元樹串流與車載光達全景測繪，將全球物理世界數位孿生化",
+    "status": "published",
     "file": "Google_Maps_前世今生.md"
   },
   {

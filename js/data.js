@@ -383,6 +383,7 @@ const TOPICS_DATA = [
     ],
     "breakthrough": "首創在線狀態感知與雙向好友名單，以 P2P 輕量協議突破地理邊界，透過自訂表情包、視窗震動與狀態廣播重塑全球千禧世代社交記憶",
     "status": "published",
+    "youtube": "https://youtu.be/FphTpehYdZ4",
     "file": "即時通訊演變史.md"
   },
   {

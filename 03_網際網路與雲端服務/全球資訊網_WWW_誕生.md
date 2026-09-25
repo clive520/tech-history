@@ -1,5 +1,11 @@
 # 如果他當年收一塊錢專利費，世界首富就不是比爾蓋茲！WWW 之父一念之仁的無私遺產
 
+<div class="video-container">
+  <iframe src="https://www.youtube-nocookie.com/embed/wpCFTbxx_VY" title="YouTube 專題影片：如果他當年收一塊錢專利費，世界首富就不是比爾蓋茲！WWW 之父一念之仁的無私遺產" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+> 📺 **同步收看 YouTube 專題解說影片**：[《如果他當年收一塊錢專利費，世界首富就不是比爾蓋茲！WWW 之父一念之仁的無私遺產》（點此在 YouTube 開啟全螢幕）](https://youtu.be/wpCFTbxx_VY)
+
 > **時代座標**：1989 年 – 1994 年（從歐洲核子研究組織 CERN 的資訊混沌迷宮、賈伯斯 NeXTSTEP 黑色神機上的創世靈光，到 1993 年 4 月 30 日將 WWW 永久無償捐贈給全人類的世紀壯舉）  
 > **領銜人物**：提姆·柏內茲-李（Tim Berners-Lee）、羅伯特·卡里奧（Robert Cailliau）、麥克·森德爾（Mike Sendall）、馬克·安德森（Marc Andreessen）  
 > **核心突破**：首創 URL（統一資源定位器）、HTTP（超文本傳輸協定）與 HTML（超文本標記語言）三位一體之現代 Web 體系架構；大膽顛覆古典電腦學界對超文本「雙向一致性、絕不容許死鏈」的嚴苛教條，以「單向超連結容錯」換取全球網路節點的指數級野蠻生長；說服 CERN 官方無條件放棄商業專利與版權所有權，將全人類文明的超文本連接技術送入公共領域（Public Domain），永久鑄就了開放、去中心化與平等的現代網際網路底座。

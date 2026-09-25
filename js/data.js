@@ -314,6 +314,7 @@ const TOPICS_DATA = [
     ],
     "breakthrough": "首創 URL、HTTP 與 HTML 三位一體，顛覆雙向超連結教條以單向容錯換取指數增長，說服 CERN 將全球資訊網技術永久無償捐贈人類",
     "status": "published",
+    "youtube": "https://youtu.be/wpCFTbxx_VY",
     "file": "全球資訊網_WWW_誕生.md"
   },
   {

@@ -303,15 +303,17 @@ const TOPICS_DATA = [
     "category": "cloud",
     "categoryName": "網際網路服務、搜尋與雲端生態",
     "categoryFolder": "03_網際網路與雲端服務",
-    "title": "全球資訊網（WWW）誕生",
-    "subtitle": "提姆·柏內茲-李在 CERN 的一念之仁與無私開源",
-    "era": "1989 - 1993",
+    "title": "如果他當年收一塊錢專利費，世界首富就不是比爾蓋茲！",
+    "subtitle": "WWW 之父一念之仁的無私遺產",
+    "era": "1989 - 1994",
     "figures": [
       "Tim Berners-Lee",
-      "Robert Cailliau"
+      "Robert Cailliau",
+      "Mike Sendall",
+      "Marc Andreessen"
     ],
-    "breakthrough": "HTTP + HTML + URL 三位一體，並將網頁技術永久無償捐贈人類",
-    "status": "planned",
+    "breakthrough": "首創 URL、HTTP 與 HTML 三位一體，顛覆雙向超連結教條以單向容錯換取指數增長，說服 CERN 將全球資訊網技術永久無償捐贈人類",
+    "status": "published",
     "file": "全球資訊網_WWW_誕生.md"
   },
   {

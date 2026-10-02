@@ -209,20 +209,23 @@ const TOPICS_DATA = [
     "file": "Flash_興衰錄.md",
     "youtube": "https://youtu.be/gjy-fftxaeA"
   },
-  {
+    {
     "id": "streaming-netflix",
     "category": "media",
     "categoryName": "數位媒體、編碼與娛樂變革",
     "categoryFolder": "02_數位媒體與編碼",
-    "title": "串流媒體先驅",
-    "subtitle": "RealPlayer 的掙扎與 Netflix 郵寄 DVD 到雲端串流逆襲",
-    "era": "1995 - 2015",
+    "title": "差點被百視達笑著攆出門！",
+    "subtitle": "Netflix 是怎麼用一包紅色郵寄光碟，活活把實體租片巨頭拖進墳墓？",
+    "era": "1997 - 2013",
     "figures": [
-      "Rob Glaser",
-      "Reed Hastings"
+      "Reed Hastings",
+      "Marc Randolph",
+      "John Antioco",
+      "Carl Icahn",
+      "Ted Sarandos"
     ],
-    "breakthrough": "邊下載邊緩衝播放，徹底改寫好萊塢與影音出租巨頭命運",
-    "status": "planned",
+    "breakthrough": "首創無逾期費紅信封訂閱制與 Cinematch 演算法長尾推薦，頂住自殘式陣痛全面遷移至 AWS 雲端串流與大數據原創自製劇，顛覆全球家庭娛樂產業",
+    "status": "published",
     "file": "串流媒體先驅.md"
   },
   {

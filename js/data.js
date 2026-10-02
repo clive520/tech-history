@@ -226,6 +226,7 @@ const TOPICS_DATA = [
     ],
     "breakthrough": "首創無逾期費紅信封訂閱制與 Cinematch 演算法長尾推薦，頂住自殘式陣痛全面遷移至 AWS 雲端串流與大數據原創自製劇，顛覆全球家庭娛樂產業",
     "status": "published",
+    "youtube": "https://youtu.be/rS1MIdxTgjU",
     "file": "串流媒體先驅.md"
   },
   {

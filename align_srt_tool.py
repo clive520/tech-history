@@ -98,16 +98,25 @@ def align_and_export_srt(approved_txt_path, whisper_json_path, output_srt_path):
 
     print("[*] 執行時間軸防呆校正 (單調性、防重疊、最小顯示時間保證)...")
     for i in range(len(subtitles)):
+        # 保證每條字幕至少顯示 0.4 秒
+        if subtitles[i]['end'] - subtitles[i]['start'] < 0.4:
+            subtitles[i]['end'] = subtitles[i]['start'] + 0.4
+
         if i > 0:
             if subtitles[i]['start'] < subtitles[i-1]['start']:
-                subtitles[i]['start'] = subtitles[i-1]['start']
+                subtitles[i]['start'] = subtitles[i-1]['start'] + 0.05
             if subtitles[i]['start'] < subtitles[i-1]['end']:
-                subtitles[i-1]['end'] = subtitles[i]['start']
-                if subtitles[i-1]['end'] - subtitles[i-1]['start'] < 0.4:
-                    subtitles[i-1]['end'] = subtitles[i-1]['start'] + 0.4
+                # 若與前一條重疊，檢查是否能平分或推移
+                if subtitles[i]['start'] >= subtitles[i-1]['start'] + 0.35:
+                    subtitles[i-1]['end'] = subtitles[i]['start']
+                else:
+                    subtitles[i-1]['end'] = subtitles[i-1]['start'] + 0.35
                     subtitles[i]['start'] = subtitles[i-1]['end']
+                if subtitles[i]['end'] - subtitles[i]['start'] < 0.4:
+                    subtitles[i]['end'] = subtitles[i]['start'] + 0.4
+
         if subtitles[i]['end'] <= subtitles[i]['start']:
-            subtitles[i]['end'] = subtitles[i]['start'] + 1.0
+            subtitles[i]['end'] = subtitles[i]['start'] + 0.5
 
     max_duration = whisper_words[-1]['end'] + 0.5
     if subtitles[-1]['end'] > max_duration:

@@ -247,6 +247,7 @@ const TOPICS_DATA = [
     ],
     "breakthrough": "以 650MB 突破 1.44MB 磁片容量極限，確立黃皮書與 ISO 9660 標準，催生聲霸卡與 MPC 多媒體電腦，微軟 Encarta 顛覆百年大英百科全書，引爆 FMV 互動電影與《Quake》CD 音軌革命",
     "status": "published",
+    "youtube": "https://youtu.be/2sF8C6CGYjE",
     "file": "CDROM_與多媒體風暴.md"
   },
   {

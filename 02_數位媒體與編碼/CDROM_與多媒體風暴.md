@@ -1,5 +1,11 @@
 # CD-ROM 與多媒體風暴：從《毀滅戰士》到光碟百科全書，重塑軟體載體
 
+<div class="video-container">
+  <iframe src="https://www.youtube-nocookie.com/embed/2sF8C6CGYjE" title="YouTube 專題影片：一片 650MB 的銀色塑膠片，敲碎了幾十張磁碟片的噩夢！CD-ROM 與多媒體風暴" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+> 📺 **同步收看 YouTube 專題解說影片**：[《CD-ROM 革命：650MB 如何改變世界》（點此在 YouTube 開啟全螢幕）](https://youtu.be/2sF8C6CGYjE)
+
 > **時代座標**：1985 年 – 1998 年（從 High Sierra 格式統一、微軟 1986 第一屆國際 CD-ROM 大會，到 MPC 多媒體電腦標準確立、Encarta 擊潰百年大英百科全書，直至《神秘島》與《雷神之錘》引爆 3D 遊戲與 CD 音軌革命）  
 > **領銜人物**：大賀典雄（Norio Ohga）、比爾·蓋茲（Bill Gates）、沈望傅（Sim Wong Hoo）、蘭德與羅賓·米勒兄弟（Rand & Robyn Miller）、克里斯·羅伯茨（Chris Roberts）、約翰·卡馬克（John Carmack）、特倫特·雷澤諾（Trent Reznor）  
 > **核心突破**：以 650MB 的光學儲存量級，徹底摧毀了 1.44MB 磁碟片的物理牢籠，實現了逾 450 倍的資訊容量躍遷；透過黃皮書（Yellow Book）與 ISO 9660 檔案系統建立跨平台二進位標準；催生包含 16 位元立體聲聲卡與光碟機的「多媒體個人電腦」（MPC）架構；以數位超文本、原聲錄音與動態影像瓦解傳統高價實體百科出版體系；並以全動態影像（FMV）與 Red Book 實體 CD 音軌重構了全球電子遊戲與電腦互動娛樂的影音敘事維度。

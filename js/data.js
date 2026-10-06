@@ -234,15 +234,19 @@ const TOPICS_DATA = [
     "category": "media",
     "categoryName": "數位媒體、編碼與娛樂變革",
     "categoryFolder": "02_數位媒體與編碼",
-    "title": "CD-ROM 與多媒體風暴",
-    "subtitle": "從《毀滅戰士》到光碟百科全書，重塑軟體載體",
+    "title": "一片 650MB 的銀色塑膠片，敲碎了幾十張磁碟片的噩夢！",
+    "subtitle": "CD-ROM 與多媒體風暴：從《毀滅戰士》到光碟百科全書，重塑軟體載體",
     "era": "1985 - 1998",
     "figures": [
+      "Norio Ohga",
+      "Bill Gates",
+      "Sim Wong Hoo",
+      "Rand Miller",
       "John Carmack",
-      "Norio Ohga"
+      "Trent Reznor"
     ],
-    "breakthrough": "從 1.44MB 磁碟片躍升至 650MB 大容量，解鎖全動態影像與音效",
-    "status": "planned",
+    "breakthrough": "以 650MB 突破 1.44MB 磁片容量極限，確立黃皮書與 ISO 9660 標準，催生聲霸卡與 MPC 多媒體電腦，微軟 Encarta 顛覆百年大英百科全書，引爆 FMV 互動電影與《Quake》CD 音軌革命",
+    "status": "published",
     "file": "CDROM_與多媒體風暴.md"
   },
   {

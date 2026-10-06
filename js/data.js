@@ -269,6 +269,7 @@ const TOPICS_DATA = [
     ],
     "breakthrough": "405nm 藍紫光雷射突破繞射極限，PS3 特洛伊木馬空投引發華納倒戈終結藍光與 HD DVD 光學大戰；JVT 跨組織研發可變區塊運動補償、整數轉換與 CABAC，H.264 在賈伯斯公開信與行動硬解推動下一統全球高畫質影音與串流網路",
     "status": "published",
+    "youtube": "https://youtu.be/7ZWXdu3G1rE",
     "file": "H264_與高畫質影音.md"
   },
   {

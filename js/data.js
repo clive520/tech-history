@@ -255,15 +255,20 @@ const TOPICS_DATA = [
     "category": "media",
     "categoryName": "數位媒體、編碼與娛樂變革",
     "categoryFolder": "02_數位媒體與編碼",
-    "title": "H.264 與高畫質影音",
-    "subtitle": "藍光 vs HD DVD 世紀大戰與串流編碼統一",
-    "era": "2003 - 2012",
+    "title": "被成人影業背叛、讓東芝血虧數十億！",
+    "subtitle": "藍光 vs HD DVD 世紀大戰，與 H.264 統一串流江湖的終局傳奇",
+    "era": "2002 - 2011",
     "figures": [
       "Thomas Wiegand",
-      "Gary Sullivan"
+      "Gary Sullivan",
+      "Ken Kutaragi",
+      "Howard Stringer",
+      "Atsutoshi Nishida",
+      "Barry Meyer",
+      "Steve Jobs"
     ],
-    "breakthrough": "極致高效的運動補償與整數變換，成為全球高畫質影音統治級標準",
-    "status": "planned",
+    "breakthrough": "405nm 藍紫光雷射突破繞射極限，PS3 特洛伊木馬空投引發華納倒戈終結藍光與 HD DVD 光學大戰；JVT 跨組織研發可變區塊運動補償、整數轉換與 CABAC，H.264 在賈伯斯公開信與行動硬解推動下一統全球高畫質影音與串流網路",
+    "status": "published",
     "file": "H264_與高畫質影音.md"
   },
   {

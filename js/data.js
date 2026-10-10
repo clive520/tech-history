@@ -370,6 +370,7 @@ const TOPICS_DATA = [
     ],
     "breakthrough": "引進 Wiki 開放協作機制與 NPOV 中立觀點方針，以集體智慧與林納斯定律打破權威壟斷，盲測準確率直逼大英百科全書並逼退微軟 Encarta，成為全人類最大的非營利公共知識聖殿",
     "status": "published",
+    "youtube": "https://youtu.be/HRnnb3guxCc",
     "file": "維基百科的奇蹟.md"
   },
   {

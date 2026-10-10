@@ -509,15 +509,17 @@ const TOPICS_DATA = [
     "category": "os",
     "categoryName": "作業系統、平台與基礎軟體",
     "categoryFolder": "04_作業系統與基礎軟體",
-    "title": "Windows XP 與經典的代價",
-    "subtitle": "極致穩定、安全中心危機與長達十餘年的退場拉鋸",
+    "title": "一個太過完美的藍天綠草地！",
+    "subtitle": "Windows XP 與經典的代價：極致穩定、安全中心危機與長達十餘年的退場拉鋸",
     "era": "2001 - 2014",
     "figures": [
+      "Bill Gates",
       "Steve Ballmer",
-      "Jim Allchin"
+      "Jim Allchin",
+      "Dave Cutler"
     ],
-    "breakthrough": "完全淘汰 DOS 內核，NT 穩定架構走入家用主流",
-    "status": "planned",
+    "breakthrough": "徹底終結 16 位元 DOS 殘障混血架構，以純 32 位元 NT 核心統一企業與家庭，並以 SP2 重塑現代 PC 安全體系，成為難以被取代的巔峰圖騰",
+    "status": "published",
     "file": "Windows_XP_經典的代價.md"
   },
   {

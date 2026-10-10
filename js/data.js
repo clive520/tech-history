@@ -359,15 +359,17 @@ const TOPICS_DATA = [
     "category": "cloud",
     "categoryName": "網際網路服務、搜尋與雲端生態",
     "categoryFolder": "03_網際網路與雲端服務",
-    "title": "維基百科的奇蹟",
-    "subtitle": "吉米·威爾斯、集體智慧與大英百科全書神話破滅",
-    "era": "2000 - 2006",
+    "title": "連微軟都甘拜下風的瘋狂烏托邦！",
+    "subtitle": "維基百科的奇蹟：吉米·威爾斯、集體智慧與大英百科全書神話破滅",
+    "era": "2000 - 2008",
     "figures": [
       "Jimmy Wales",
-      "Larry Sanger"
+      "Larry Sanger",
+      "Ward Cunningham",
+      "Richard Stallman"
     ],
-    "breakthrough": "任何人皆可自由編輯的眾包知識庫，擊敗百年權威百科全書模式",
-    "status": "planned",
+    "breakthrough": "引進 Wiki 開放協作機制與 NPOV 中立觀點方針，以集體智慧與林納斯定律打破權威壟斷，盲測準確率直逼大英百科全書並逼退微軟 Encarta，成為全人類最大的非營利公共知識聖殿",
+    "status": "published",
     "file": "維基百科的奇蹟.md"
   },
   {

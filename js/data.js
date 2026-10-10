@@ -389,6 +389,7 @@ const TOPICS_DATA = [
     ],
     "breakthrough": "以鐵腕 API 聖旨強制將單體架構重構為微服務，並將儲存（S3）與運算（EC2）抽象為隨開即用的公用事業，開啟全球 IaaS 雲端運算時代",
     "status": "published",
+    "youtube": "https://youtu.be/QNcopY1c3TY",
     "file": "Amazon_AWS_雲端帝國.md"
   },
   {

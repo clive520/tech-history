@@ -1,5 +1,11 @@
 # 一道「不照做就滾蛋」的鐵血聖旨，如何把一家賣書網站變成統治全人類網路的雲端水電廠？
 
+<div class="video-container">
+  <iframe src="https://www.youtube-nocookie.com/embed/QNcopY1c3TY" title="YouTube 專題影片：意外的帝國：打造現代網路水電廠" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+> 📺 **同步收看 YouTube 專題解說影片**：[《意外的帝國：打造現代網路水電廠》（點此在 YouTube 開啟全螢幕）](https://youtu.be/QNcopY1c3TY)
+
 > **時代座標**：2000 年 – 2008 年（從亞馬遜單體巨石「Obidos」架構崩潰、貝佐斯西雅圖別墅高層閉門會，到 2002 年著名的「Bezos API Mandate」、2006 年 S3 與 EC2 橫空出世，徹底開啟全球 IaaS 雲端運算與 Web 2.0 獨角獸狂潮）  
 > **領銜人物**：傑夫·貝佐斯（Jeff Bezos）、安迪·賈西（Andy Jassy）、沃納·威格爾斯（Werner Vogels）、史蒂夫·耶格（Steve Yegge）、克里斯·平克漢姆（Chris Pinkham）、威廉·威廉斯（Willem van Biljon）  
 > **核心突破**：破除「閒置伺服器再利用」的歷史迷思，將龐大混亂的電商單體架構重構為 SOA 微服務與內部原子化能力；以鐵腕 API 聖旨強制規定跨團隊通訊必須採用無狀態服務介面；將伺服器運算（EC2）、非關聯儲存（S3）與訊息傳遞（SQS）化為標準化、按需計費、API 驅動的公用基礎設施（IaaS）；以「Everything fails all the time」為核心分散式哲學，將全球數位創業的伺服器固定成本降至趨近於零，成為推動整個現代網路世界運轉的數位發電機。

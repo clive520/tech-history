@@ -1,5 +1,11 @@
 # 一個太過完美的藍天綠草地，如何變成微軟長達十三年擺脫不掉的「甜蜜噩夢」？
 
+<div class="video-container">
+  <iframe src="https://www.youtube-nocookie.com/embed/R_Z-bNdtBSQ" title="YouTube 專題影片：科技界的科學怪人：Windows XP" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+> 📺 **同步收看 YouTube 專題解說影片**：[《科技界的科學怪人：Windows XP》（點此在 YouTube 開啟全螢幕）](https://youtu.be/R_Z-bNdtBSQ)
+
 > **時代座標**：2001 年 – 2014 年（從 2001 年 10 月 25 日紐約時代廣場 Windows XP 盛大發布、NT 核心家用統一，到衝擊波/震盪波蠕蟲病毒肆虐全球引發微軟全體代碼大審查，再到 SP2 安全中心重塑防禦體系，經歷 Vista 的慘烈滑鐵盧，直至 2014 年 4 月 8 日官方正式終止支援，全球數億台 ATM 與醫療系統死守不退的世紀退場拉鋸）  
 > **領銜人物**：比爾·蓋茲（Bill Gates）、史蒂夫·鮑爾默（Steve Ballmer）、吉姆·阿爾欽（Jim Allchin）、查克·奧里爾（Chuck O'Rear）、戴夫·卡特勒（Dave Cutler）  
 > **核心突破**：徹底終結自 MS-DOS 與 Windows 95/98/Me 遺留下來的 16 位元混合殘障架構，將純 32 位元、基於搶佔式多工與虛擬記憶體分頁隔離的 Windows NT 核心（Whistler 專案）正式統一至消費級家用市場；引進 Luna 塑膠果凍視覺主題與 ClearType 液晶次像素渲染技術；因應「衝擊波」與「震盪波」蠕蟲危機，比爾·蓋茲頒布《可信賴運算》（Trustworthy Computing）備忘錄，催生史上規模最龐大的 Service Pack 2（SP2）防禦重構（內建 Windows 防火牆、安全中心、DEP 資料執行防止）；因極致穩定與低硬體需求成為全球個人電腦史上的巔峰圖騰，更化為科技史上最難以被取代的「釘子戶傳奇」。

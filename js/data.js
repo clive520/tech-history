@@ -520,6 +520,7 @@ const TOPICS_DATA = [
     ],
     "breakthrough": "徹底終結 16 位元 DOS 殘障混血架構，以純 32 位元 NT 核心統一企業與家庭，並以 SP2 重塑現代 PC 安全體系，成為難以被取代的巔峰圖騰",
     "status": "published",
+    "youtube": "https://youtu.be/R_Z-bNdtBSQ",
     "file": "Windows_XP_經典的代價.md"
   },
   {

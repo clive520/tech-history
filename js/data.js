@@ -378,16 +378,17 @@ const TOPICS_DATA = [
     "category": "cloud",
     "categoryName": "網際網路服務、搜尋與雲端生態",
     "categoryFolder": "03_網際網路與雲端服務",
-    "title": "Amazon AWS 雲端帝國",
-    "subtitle": "貝佐斯的「API 聖旨」如何意外催生現代雲端運算",
+    "title": "一道「不照做就滾蛋」的鐵血聖旨！",
+    "subtitle": "Amazon AWS 雲端帝國：貝佐斯的「API 聖旨」如何意外催生現代雲端運算",
     "era": "2002 - 2008",
     "figures": [
       "Jeff Bezos",
       "Andy Jassy",
-      "Werner Vogels"
+      "Werner Vogels",
+      "Steve Yegge"
     ],
-    "breakthrough": "將多餘伺服器運算力商品化（S3 / EC2），開啟基礎設施即服務（IaaS）時代",
-    "status": "planned",
+    "breakthrough": "以鐵腕 API 聖旨強制將單體架構重構為微服務，並將儲存（S3）與運算（EC2）抽象為隨開即用的公用事業，開啟全球 IaaS 雲端運算時代",
+    "status": "published",
     "file": "Amazon_AWS_雲端帝國.md"
   },
   {

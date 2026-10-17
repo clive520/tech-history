@@ -767,6 +767,7 @@ const TOPICS_DATA = [
     ],
     "breakthrough": "開創網際網路人工目錄與門戶廣告時代，卻在媒體與科技定位中迷失，歷經錯失收購 Google 與 Facebook、57 億收購 Broadcast.com 泡沫、拒絕微軟 446 億溢價收購，終以 44.8 億賤賣 Verizon",
     "status": "published",
+    "youtube": "https://youtu.be/FL9jyR3bfkA",
     "file": "雅虎錯過的時代.md"
   },
   {

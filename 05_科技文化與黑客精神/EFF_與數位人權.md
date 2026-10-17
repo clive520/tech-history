@@ -1,5 +1,11 @@
 # 「你們在我們的世界毫無主權！」這份深夜寫在達沃斯酒吧的獨立宣言，如何點燃了捍衛網路自由的第一把火？
 
+<div class="video-container">
+  <iframe src="https://www.youtube-nocookie.com/embed/13p6K36Bvd4" title="YouTube 專題影片：賽博騎士與帝國的對決" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+> 📺 **同步收看 YouTube 專題解說影片**：[《賽博騎士與帝國的對決》（點此在 YouTube 開啟全螢幕）](https://youtu.be/13p6K36Bvd4)
+
 > **時代座標**：1990 年 – 2000 年（從 1990 年 3 月美國特勤局突襲查抄史蒂夫·傑克遜遊戲公司與《GURPS Cyberpunk》科幻手稿引發全美黑客恐慌，到 1990 年 7 月約翰·佩里·巴洛、米奇·卡普爾與約翰·吉爾摩在舊金山正式創立電子前線基金會 EFF；從 1996 年美國柯林頓總統簽署《電信法》試圖推行「通訊規範法 CDA」對網路實施內容審查，到巴洛在達沃斯世界經濟論壇深夜酒吧起草震撼全球的《賽博空間獨立宣言》；直至 1997 年美國聯邦最高法院於「里諾訴美公民自由聯盟案 Reno v. ACLU」確立網際網路享有憲法第一修正案最高級別言論自由保護，徹底奠定現代數位人權法理基石）  
 > **領銜人物**：約翰·佩里·巴洛（John Perry Barlow）、米奇·卡普爾（Mitch Kapor）、約翰·吉爾摩（John Gilmore）、史蒂夫·傑克遜（Steve Jackson）、菲爾·齊默爾曼（Phil Zimmermann）、麥克·戈德溫（Mike Godwin）  
 > **核心突破**：全面考證電子前線基金會（Electronic Frontier Foundation, EFF）從一場針對聯邦執法濫權的法律自衛反擊，昇華為全球數位人權憲章守護者的誕生史；深度解析《賽博空間獨立宣言》（A Declaration of the Independence of Cyberspace）的哲學脈絡與時代震撼；解密憲法第一修正案（言論自由）與第四修正案（免受無理搜查）在虛擬空間中的歷史性延伸；破除「賽博空間是法外蠻荒之地」的極端烏托邦迷思，還原真實世界中法律訴訟、專利防禦與加密權力鬥爭；確立現代數位公民社會對抗國家機器監控與資本數位圍牆的永恆法律基石。

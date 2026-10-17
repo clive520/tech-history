@@ -668,6 +668,7 @@ const TOPICS_DATA = [
     ],
     "breakthrough": "創立電子前線基金會 EFF，以憲法第一與第四修正案打贏傑克遜案與最高法院 9:0 里程碑判決，確立「代碼即言論」並奠定現代數位人權法理基石",
     "status": "published",
+    "youtube": "https://youtu.be/13p6K36Bvd4",
     "file": "EFF_與數位人權.md"
   },
   {

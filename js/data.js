@@ -729,6 +729,7 @@ const TOPICS_DATA = [
     ],
     "breakthrough": "引爆 1995 網路狂潮與第一次瀏覽器大戰，在遭微軟壟斷絞殺滅頂之際開創 Mozilla 全面開源，以輕巧銳利的 Firefox 打破 IE 95% 獨佔鐵幕並復興開放 Web 標準",
     "status": "published",
+    "youtube": "https://youtu.be/g3WcIUtK7b8",
     "file": "網景通訊的最後一搏.md"
   },
   {

@@ -553,10 +553,12 @@ const TOPICS_DATA = [
     "figures": [
       "Steve Jobs",
       "Bill Gates",
-      "Paul Graham"
+      "Paul Graham",
+      "Steve Wozniak",
+      "Linus Torvalds"
     ],
-    "breakthrough": "專注、偏執與用程式碼重構世界，讓「怪胎」轉變為科技時代的領航英雄",
-    "status": "planned",
+    "breakthrough": "專注、偏執與用程式碼重構世界，將邊緣侮辱性標籤逆襲為數位文明的造王者圖騰",
+    "status": "published",
     "file": "GEEK_極客精神.md"
   },
   {

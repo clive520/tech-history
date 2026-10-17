@@ -600,6 +600,7 @@ const TOPICS_DATA = [
     ],
     "breakthrough": "無私分享電路圖、紙帶源碼與技術靈感，Altair 8800 與 Apple 核心皆誕生於此，奠定現代個人電腦產業與開源黑客精神基石",
     "status": "published",
+    "youtube": "https://youtu.be/XmYsf-erCKg",
     "file": "自製電腦俱樂部.md"
   },
   {

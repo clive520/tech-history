@@ -647,6 +647,7 @@ const TOPICS_DATA = [
     ],
     "breakthrough": "解密車庫如何從簡陋克難的實體避難所，昇華為現代科技文明打破巨頭官僚、反叛體制與實踐黑客精神的終極精神母體",
     "status": "published",
+    "youtube": "https://youtu.be/4IcGsubp2hE",
     "file": "矽谷車庫文化考.md"
   },
   {

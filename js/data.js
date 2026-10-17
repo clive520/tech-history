@@ -815,6 +815,7 @@ const TOPICS_DATA = [
     ],
     "breakthrough": "提出「網絡就是電腦」先知神諭，發明 NFS、SPARC、Solaris 與 Java 語言奠定現代互聯網架構，卻遭網路泡沫與 x86 廉價叢集吞噬",
     "status": "published",
+    "youtube": "https://youtu.be/Dd_VMLS4PmM",
     "file": "太陽微系統的先知悲歌.md"
   }
 ];

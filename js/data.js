@@ -715,16 +715,20 @@ const TOPICS_DATA = [
     "category": "business",
     "categoryName": "商業戰役、敗局與科技啟示錄",
     "categoryFolder": "06_商業戰役與科技啟示",
-    "title": "網景通訊的最後一搏",
-    "subtitle": "Mozilla 鳳凰涅槃與 Firefox 的開源復仇",
-    "era": "1998 - 2008",
+    "title": "「我們要切斷他們的空氣供應！」",
+    "subtitle": "第一次瀏覽器大戰與火狐復仇記：從 1995 年驚世 IPO、微軟割喉到 Firefox 打破 95% 壟斷鐵幕",
+    "era": "1994 - 2008",
     "figures": [
+      "Marc Andreessen",
+      "Jim Clark",
+      "Bill Gates",
       "Brendan Eich",
       "Mitchell Baker",
-      "Blake Ross"
+      "Blake Ross",
+      "Dave Hyatt"
     ],
-    "breakthrough": "瀕臨滅絕之際將代碼全面開源，以輕巧高效的 Firefox 打破 IE 95% 獨佔壟斷",
-    "status": "planned",
+    "breakthrough": "引爆 1995 網路狂潮與第一次瀏覽器大戰，在遭微軟壟斷絞殺滅頂之際開創 Mozilla 全面開源，以輕巧銳利的 Firefox 打破 IE 95% 獨佔鐵幕並復興開放 Web 標準",
+    "status": "published",
     "file": "網景通訊的最後一搏.md"
   },
   {

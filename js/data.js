@@ -586,16 +586,20 @@ const TOPICS_DATA = [
     "category": "culture",
     "categoryName": "科技文化、社群與黑客精神",
     "categoryFolder": "05_科技文化與黑客精神",
-    "title": "自製電腦俱樂部",
-    "subtitle": "Homebrew Computer Club：矽谷車庫神話的真正孵化器",
-    "era": "1975 - 1980",
+    "title": "矽谷車庫神話的真正子宮！",
+    "subtitle": "自製電腦俱樂部：一群長髮嬉皮與電子狂熱者，如何徒手敲出個人電腦革命？",
+    "era": "1975 - 1986",
     "figures": [
       "Lee Felsenstein",
       "Fred Moore",
-      "Steve Wozniak"
+      "Gordon French",
+      "Steve Wozniak",
+      "Steve Jobs",
+      "Bill Gates",
+      "Bob Marsh"
     ],
-    "breakthrough": "無私分享電路圖與技術靈感，Altair 8800 與 Apple 核心皆誕生於此",
-    "status": "planned",
+    "breakthrough": "無私分享電路圖、紙帶源碼與技術靈感，Altair 8800 與 Apple 核心皆誕生於此，奠定現代個人電腦產業與開源黑客精神基石",
+    "status": "published",
     "file": "自製電腦俱樂部.md"
   },
   {

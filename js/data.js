@@ -737,15 +737,19 @@ const TOPICS_DATA = [
     "category": "business",
     "categoryName": "商業戰役、敗局與科技啟示錄",
     "categoryFolder": "06_商業戰役與科技啟示",
-    "title": "諾基亞塞班帝國的崩塌",
-    "subtitle": "智慧型手機前夜的組織自滿與燃燒的平台",
-    "era": "2004 - 2013",
+    "title": "「我們並沒有做錯什麼，但我們輸了」",
+    "subtitle": "塞班帝國的黃昏與諾基亞手機霸權的崩塌：從 40% 全球市占到燃燒的平台",
+    "era": "1998 - 2013",
     "figures": [
       "Jorma Ollila",
-      "Stephen Elop"
+      "Olli-Pekka Kallasvuo",
+      "Stephen Elop",
+      "Anssi Vanjoki",
+      "Steve Jobs",
+      "Steve Ballmer"
     ],
-    "breakthrough": "硬體思維無法轉向軟體生態，王者在短短 5 年內失去全球手機第一寶座",
-    "status": "planned",
+    "breakthrough": "連續十四年全球手機銷量霸主，市占率曾達 40.5%，卻受困於塞班系統架構缺陷、矩陣官僚內耗與硬體思維，在 iPhone 與 Android 軟體生態降維打擊下以 72 億賤賣微軟",
+    "status": "published",
     "file": "諾基亞塞班帝國的崩塌.md"
   },
   {

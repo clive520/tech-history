@@ -559,6 +559,7 @@ const TOPICS_DATA = [
     ],
     "breakthrough": "專注、偏執與用程式碼重構世界，將邊緣侮辱性標籤逆襲為數位文明的造王者圖騰",
     "status": "published",
+    "youtube": "https://youtu.be/z2OyGQ_TkW0",
     "file": "GEEK_極客精神.md"
   },
   {

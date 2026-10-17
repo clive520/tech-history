@@ -1,5 +1,11 @@
 # 從咬斷雞頭的馬戲團怪胎，到統治世界的矽谷新貴！「GEEK」這個標籤究竟是如何完成驚天逆襲的？
 
+<div class="video-container">
+  <iframe src="https://www.youtube-nocookie.com/embed/z2OyGQ_TkW0" title="YouTube 專題影片：「Geek」的演化：從咬斷雞頭到統治矽谷" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+> 📺 **同步收看 YouTube 專題解說影片**：[《「Geek」的演化：從咬斷雞頭到統治矽谷》（點此在 YouTube 開啟全螢幕）](https://youtu.be/z2OyGQ_TkW0)
+
 > **時代座標**：1880 年代 – 2010 年代（從美國流動馬戲團的生肉吞食表演「Geek Show」，到 1970 年代高中走廊的置物櫃霸凌與塑膠護筆套，經歷微電腦俱樂部革命、比爾·蓋茲與賈伯斯的商界加冕，保羅·葛蘭姆《駭客與畫家》社會學解剖，直至《宅男行不行》流行文化封神與 GEEK 成為全人類創新領航者的逆襲史詩）  
 > **領銜人物**：史蒂夫·賈伯斯（Steve Jobs）、比爾·蓋茲（Bill Gates）、保羅·葛蘭姆（Paul Graham）、史蒂夫·沃茲尼克（Steve Wozniak）、理查·斯托曼（Richard Stallman）、林納斯·托瓦茲（Linus Torvalds）  
 > **核心突破**：全面考證「GEEK（極客）」一詞跨越百年的語意大遷徙與社會階級反轉；深刻剖析「專注於真實事物（真實世界/程式碼）而非虛妄人際聲望」的極客心理學機制；見證資訊革命如何將個人電腦、軟體演算法轉化為打破傳統社會體育霸權、出身階級與體制壟斷的終極武器；確立極客精神——偏執、智力崇拜、打破常規、以實幹建造未來——作為現代數位文明核心驅動引擎的歷史地位。

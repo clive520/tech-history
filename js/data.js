@@ -797,15 +797,18 @@ const TOPICS_DATA = [
     "category": "business",
     "categoryName": "商業戰役、敗局與科技啟示錄",
     "categoryFolder": "06_商業戰役與科技啟示",
-    "title": "黑莓機與按鍵輓歌",
-    "subtitle": "九一一事件的通訊英雄如何敗給全觸控時代",
+    "title": "「商務精英絕不會在玻璃上打字！」",
+    "subtitle": "九一一通訊英雄、白宮神器到全觸控時代，黑莓機的實體鍵盤輓歌",
     "era": "1999 - 2016",
     "figures": [
       "Mike Lazaridis",
-      "Jim Balsillie"
+      "Jim Balsillie",
+      "Steve Jobs",
+      "Barack Obama",
+      "John Chen"
     ],
-    "breakthrough": "雙拇指實體全鍵盤與 BES 加密伺服器稱霸政商界，卻低估觸控螢幕消費者生態",
-    "status": "planned",
+    "breakthrough": "以雙拇指實體全鍵盤與 BES 加密伺服器稱霸全球政商界，九一一事件成救命神器，卻在全觸控與 IT 消費化浪潮中錯失轉型，最終退出手機硬體製造",
+    "status": "published",
     "file": "黑莓機與按鍵輓歌.md"
   },
   {

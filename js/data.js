@@ -750,6 +750,7 @@ const TOPICS_DATA = [
     ],
     "breakthrough": "連續十四年全球手機銷量霸主，市占率曾達 40.5%，卻受困於塞班系統架構缺陷、矩陣官僚內耗與硬體思維，在 iPhone 與 Android 軟體生態降維打擊下以 72 億賤賣微軟",
     "status": "published",
+    "youtube": "https://youtu.be/Nn4DeThljUo",
     "file": "諾基亞塞班帝國的崩塌.md"
   },
   {

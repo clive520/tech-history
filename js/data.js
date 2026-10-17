@@ -632,16 +632,21 @@ const TOPICS_DATA = [
     "category": "culture",
     "categoryName": "科技文化、社群與黑客精神",
     "categoryFolder": "05_科技文化與黑客精神",
-    "title": "矽谷車庫文化考",
-    "subtitle": "從 HP 惠普車庫、喬布斯車庫到創業符號的誕生",
+    "title": "全世界最偉大的兩座車庫！",
+    "subtitle": "矽谷車庫文化考：從 HP 惠普車庫、賈伯斯車庫到人類科技創業的精神圖騰",
     "era": "1938 - 1998",
     "figures": [
       "Bill Hewlett",
       "Dave Packard",
-      "Steve Jobs"
+      "Frederick Terman",
+      "Steve Jobs",
+      "Steve Wozniak",
+      "Larry Page",
+      "Sergey Brin",
+      "Susan Wojcicki"
     ],
-    "breakthrough": "從簡陋克難環境中以創新打破常規，成為全世界科技創業的精神象徵",
-    "status": "planned",
+    "breakthrough": "解密車庫如何從簡陋克難的實體避難所，昇華為現代科技文明打破巨頭官僚、反叛體制與實踐黑客精神的終極精神母體",
+    "status": "published",
     "file": "矽谷車庫文化考.md"
   },
   {

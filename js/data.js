@@ -707,6 +707,7 @@ const TOPICS_DATA = [
     ],
     "breakthrough": "坐擁全球第一項數位相機專利與 1,100 項核心數位專利，卻因 80% 毛利底片印鈔機陷入創新者兩難，成為全球科技商業史最慘烈破產案例",
     "status": "published",
+    "youtube": "https://youtu.be/RD0hjpDR1JQ",
     "file": "柯達的數位困境.md"
   },
   {

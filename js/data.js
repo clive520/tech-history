@@ -753,15 +753,20 @@ const TOPICS_DATA = [
     "category": "business",
     "categoryName": "商業戰役、敗局與科技啟示錄",
     "categoryFolder": "06_商業戰役與科技啟示",
-    "title": "雅虎錯過的時代",
-    "subtitle": "三次足以買下 Google、Facebook 的歷史交叉口",
-    "era": "1998 - 2008",
+    "title": "「把未來買便宜一點？」",
+    "subtitle": "錯過 100 萬的 Google、10 億的 Facebook 到拒絕微軟 446 億，門戶帝國雅虎如何將天下拱手讓人？",
+    "era": "1994 - 2017",
     "figures": [
       "Jerry Yang",
-      "Terry Semel"
+      "David Filo",
+      "Terry Semel",
+      "Carol Bartz",
+      "Marissa Mayer",
+      "Steve Ballmer",
+      "Brad Garlinghouse"
     ],
-    "breakthrough": "迷失在媒體公司與科技公司定位之間，頻繁更迭執行長終遭時代拋棄",
-    "status": "planned",
+    "breakthrough": "開創網際網路人工目錄與門戶廣告時代，卻在媒體與科技定位中迷失，歷經錯失收購 Google 與 Facebook、57 億收購 Broadcast.com 泡沫、拒絕微軟 446 億溢價收購，終以 44.8 億賤賣 Verizon",
+    "status": "published",
     "file": "雅虎錯過的時代.md"
   },
   {

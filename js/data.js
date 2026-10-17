@@ -661,10 +661,13 @@ const TOPICS_DATA = [
     "figures": [
       "John Perry Barlow",
       "Mitch Kapor",
-      "John Gilmore"
+      "John Gilmore",
+      "Steve Jackson",
+      "Phil Zimmermann",
+      "Mike Godwin"
     ],
-    "breakthrough": "捍衛虛擬網路世界中的言論自由與隱私權免受實體政府蠻橫侵犯",
-    "status": "planned",
+    "breakthrough": "創立電子前線基金會 EFF，以憲法第一與第四修正案打贏傑克遜案與最高法院 9:0 里程碑判決，確立「代碼即言論」並奠定現代數位人權法理基石",
+    "status": "published",
     "file": "EFF_與數位人權.md"
   },
   {

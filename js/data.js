@@ -809,6 +809,7 @@ const TOPICS_DATA = [
     ],
     "breakthrough": "以雙拇指實體全鍵盤與 BES 加密伺服器稱霸全球政商界，九一一事件成救命神器，卻在全觸控與 IT 消費化浪潮中錯失轉型，最終退出手機硬體製造",
     "status": "published",
+    "youtube": "https://youtu.be/qBRbR9qktyA",
     "file": "黑莓機與按鍵輓歌.md"
   },
   {

@@ -802,16 +802,19 @@ const TOPICS_DATA = [
     "category": "business",
     "categoryName": "商業戰役、敗局與科技啟示錄",
     "categoryFolder": "06_商業戰役與科技啟示",
-    "title": "太陽微系統的先知悲歌",
-    "subtitle": "「網路即電腦」理念、Java 誕生與硬體巨頭的落幕",
+    "title": "「網絡就是電腦！」",
+    "subtitle": "發明了 Java、NFS 與伺服器時代的科技先知，太陽微系統為何淪為廢墟？",
     "era": "1982 - 2010",
     "figures": [
       "Scott McNealy",
       "Bill Joy",
-      "James Gosling"
+      "Andy Bechtolsheim",
+      "Vinod Khosla",
+      "James Gosling",
+      "Larry Ellison"
     ],
-    "breakthrough": "發明 Java、NFS 與伺服器技術超前時代，卻遭遇網路泡沫與 x86 PC 伺服器夾擊",
-    "status": "planned",
+    "breakthrough": "提出「網絡就是電腦」先知神諭，發明 NFS、SPARC、Solaris 與 Java 語言奠定現代互聯網架構，卻遭網路泡沫與 x86 廉價叢集吞噬",
+    "status": "published",
     "file": "太陽微系統的先知悲歌.md"
   }
 ];

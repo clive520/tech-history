@@ -694,14 +694,19 @@ const TOPICS_DATA = [
     "category": "business",
     "categoryName": "商業戰役、敗局與科技啟示錄",
     "categoryFolder": "06_商業戰役與科技啟示",
-    "title": "柯達的數位困境",
-    "subtitle": "發明了全球第一台數位相機，卻親手將自己送進墳墓",
+    "title": "發明了世界第一台數位相機，卻被自己的親生骨肉活活勒死！",
+    "subtitle": "柯達百年黃色帝國為何淪為「創新者的終極墳場」？從 1975 年錄音帶相機到 2012 年破產法庭",
     "era": "1975 - 2012",
     "figures": [
-      "Steven Sasson"
+      "Steven Sasson",
+      "George Eastman",
+      "George M.C. Fisher",
+      "Daniel Carp",
+      "Antonio Perez",
+      "Clayton Christensen"
     ],
-    "breakthrough": "因膠卷膠片龐大利潤不敢擁抱親手發明的數位相機，成為創新者窘境代表教材",
-    "status": "planned",
+    "breakthrough": "坐擁全球第一項數位相機專利與 1,100 項核心數位專利，卻因 80% 毛利底片印鈔機陷入創新者兩難，成為全球科技商業史最慘烈破產案例",
+    "status": "published",
     "file": "柯達的數位困境.md"
   },
   {
